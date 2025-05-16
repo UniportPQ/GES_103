@@ -1,0 +1,1765 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Nigerian People and culture",
+    "code": "GES 103",
+    "session": "2011/2012",
+    "time": "120"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Culture is transmitted through a process called",
+      "type": "OBJ",
+      "options": ["socialization", "secularization", "ethnocentrism", "sensitization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "socialization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Socialization is the lifelong process through which individuals learn their culture's norms, values, and behaviors from family, schools, and peers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Rites of passage involve separation, transition and ______",
+      "type": "OBJ",
+      "options": ["incarceration", "incorporation", "transformation", "re-incorporation"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "incorporation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Arnold van Gennep's model of rites of passage includes three stages: separation (from old status), transition (liminal phase), and incorporation (into new status)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The most dominant economic activity in Nigeria since ancient times is",
+      "type": "OBJ",
+      "options": ["cloth making", "Agriculture", "blacksmithing", "mining", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agriculture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's economy has historically been agrarian, with crops like yams (Igbo), millet (Hausa), and cocoa (Yoruba) forming the backbone of subsistence and trade."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "The process of acquiring the culture of another ethnic group is",
+      "type": "OBJ",
+      "options": ["socialization", "acceleration", "integration", "cohesion", "colonialism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "integration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural integration occurs when groups adopt elements of each other's cultures, such as Nigerian Pidgin blending English with indigenous languages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "______ believes that the production of material life influences the nature of society",
+      "type": "OBJ",
+      "options": ["Ringley Davis", "Wilber moore", "Karl Marx", "Emile Durkheim", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Karl Marx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx's historical materialism argues that economic systems (e.g., feudalism, capitalism) shape social structures and cultural superstructures like religion and law."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The solid part of the earth's planet is called",
+      "type": "OBJ",
+      "options": ["Lithosphere", "Biosphere", "Genosphere", "Hydrosphere"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lithosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The lithosphere comprises Earth's crust and upper mantle, including landforms like the Jos Plateau in Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The study of the relationship between a culture group and its environment is",
+      "type": "OBJ",
+      "options": ["culture ecology", "environmental study", "culture study", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "culture ecology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural ecology examines how societies adapt to environments, like the Fulani's nomadic pastoralism in Nigeria's Sahel region."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "When spouses live in their own house, the pattern is ______",
+      "type": "OBJ",
+      "options": ["Natolocal", "Neolocal", "Uzorilocal", "Urbanisation"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Neolocal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Neolocal residence (common in urban Nigeria) involves couples establishing independent households, unlike patrilocal/matrilocal systems where they live with extended family."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Bronze work in Nigeria got to its peak of penetration in",
+      "type": "OBJ",
+      "options": ["Nok", "Ife", "Benin", "Kano"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Benin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Benin Kingdom (13th–19th century) produced sophisticated bronze plaques and sculptures, surpassing earlier Nok and Ife traditions in technical complexity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "A society in which people with racial and ethnic identities compete with each other for scarce resources offers a fertile site for the development of",
+      "type": "OBJ",
+      "options": ["ethnic labels", "discrimination", "stereotypes", "prejudice", "all of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Resource competition often fuels ethnic labeling (e.g., 'settler' vs. 'indigene'), discrimination (unequal access), stereotypes (generalizations), and prejudice (biased attitudes)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "In Nigeria and in many other parts of the world, ______ provides the basis for intergroup contact",
+      "type": "OBJ",
+      "options": ["colonialism", "prejudice", "Urani rural migration", "Rural–rural migration"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "colonialism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Colonialism forced diverse ethnic groups into shared political structures, creating artificial boundaries that later became contexts for intergroup relations in post-colonial states like Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "In almost every society, intergroup contacts tend to generate the following except one",
+      "type": "OBJ",
+      "options": ["conflicts", "accommodation", "ethnic pluralism", "assimilation", "co-operation"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ethnic pluralism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ethnic pluralism describes pre-existing diversity, not an outcome of contact. Contact typically produces conflict, accommodation (adjustment), assimilation (cultural absorption), or cooperation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Wahab (1975) lists different forms of tourism except",
+      "type": "OBJ",
+      "options": ["recreational tourism", "cultural tourism", "historical tourism", "arts tourism", "environmental tourism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "arts tourism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While arts may be part of cultural tourism, 'arts tourism' isn't a standard category in Wahab's classification, which focuses on broader themes like recreation and environment."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Yorubas believe that ______ is responsible for fertility",
+      "type": "OBJ",
+      "options": ["Babalawo", "Orisa", "Oramnilla", "Abiku"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Orisa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Orisa (deities) like Osun govern fertility in Yoruba religion, while Abiku refers to 'spirit children' and Babalawo are diviners."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "______ viewed religion as the opium of the masses",
+      "type": "OBJ",
+      "options": ["Marx", "Weber", "Durkheim", "Parsons"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Karl Marx critiqued religion as a tool to pacify oppressed classes, calling it 'the opium of the people' in his 1843 work."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Among the Kalabari, the Ekine society known as Sekiakpu performs one of the following functions",
+      "type": "OBJ",
+      "options": [
+        "seeks the help of water spirits through invocations",
+        "acts as messengers to the ancestors",
+        "members live in the jungle and preside at ceremonies",
+        "beat the Ekine drum before the hut of wrongdoers",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "beat the Ekine drum before the hut of wrongdoers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ekine/Sekiapu society uses drumming (e.g., the 'Ekine' drum) to enforce social order, including shaming wrongdoers in Kalabari communities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Amongst the Efik of Cross-River and Ibibio of Akwa-Ibom, social importance is attached to the highest ranks of Ekpe-men called",
+      "type": "OBJ",
+      "options": ["Amama", "Obatala", "Lion", "Amanyanabo"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amama"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In the Ekpe secret society, 'Amama' denotes the highest-ranking members who wield significant judicial and political authority."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "______ society was an organ of government in the pre-colonial Kalabari societies",
+      "type": "OBJ",
+      "options": ["Amanyanabo", "Ekine", "Ogboni", "Buguma Internal Affairs Society"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ekine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ekine society doubled as a governance body in Kalabari city-states, handling dispute resolution and maintaining cultural traditions alongside the Amanyanabo (king)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Three major religious specialists in Igbo tradition are all except",
+      "type": "OBJ",
+      "options": ["Priest", "Arch deity", "Diviners", "Medicine men"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Arch deity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While priests (e.g., of Ala), diviners (Dibia), and medicine men are human specialists, 'arch deity' refers to a supreme god (Chukwu), not a practitioner."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "______ defined disease as 'a complete state of physical, social, and mental well-being and not merely the absence of infirmity or disease'",
+      "type": "OBJ",
+      "options": ["United Nations (UN)", "World Health Organization (WHO)", "Sigmund Freud", "Erinosho (1998)"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "World Health Organization (WHO)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The WHO's 1948 definition revolutionized health concepts by emphasizing holistic well-being beyond just disease treatment, influencing global public health policies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "______ is the sociological theory which assumes that all societal institutions contribute to society's stability",
+      "type": "OBJ",
+      "options": ["Conflict theory", "Functionalism", "Ethnomethodology", "social action theory"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functionalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functionalism (Durkheim, Parsons) views society as a system where institutions (family, religion) work interdependently to maintain equilibrium, unlike conflict theory which focuses on power struggles."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "______ and ______ are the two stages of personality development identified by Sigmund Freud",
+      "type": "OBJ",
+      "options": ["oral and anal stage", "maturation and growth", "Health and physical growth", "none of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "oral and anal stage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Freud's psychosexual stages begin with oral (0-1yr) and anal (1-3yrs), where personality forms through fixation on mouth/anus-related activities. Note: Freud actually identified 5 stages; this question oversimplifies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "The indigenous practitioners can be broadly grouped into two",
+      "type": "OBJ",
+      "options": ["Bone-setters and traditional birth Attendants (TBAs)", "Chiropractors and Homeopaths", "Natural and the supernatural", "acupuncturists and Medicine men"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Natural and the supernatural"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional healers are categorized by methods: natural (herbalists, bone-setters) vs. supernatural (diviners, spirit mediums). TBAs/fracture healers fit under natural."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "These are cultural impediments in the control of HIV/AIDS in Nigeria except",
+      "type": "OBJ",
+      "options": ["Polygamy", "early marriage", "disinheritance of widows", "ignorance and myths", "sacrifices"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sacrifices"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While polygamy, child marriage, widow disinheritance, and myths (e.g., 'HIV cure through sex with virgins') hinder prevention, sacrifices are religious acts not directly linked to HIV spread."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Islam and Christianity are indigenous religions",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Both are foreign: Islam entered Nigeria via trans-Saharan trade (11th century), Christianity through colonialism. Indigenous religions include Yoruba Orisha or Igbo Odinani."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "The functionalist perspective justifies inequality in society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functionalists (Davis & Moore) argue stratification motivates people to fill vital roles (e.g., doctors vs. laborers), though this view is critiqued for legitimizing inequity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "During initiation rites, virtues of discipline and endurance are instilled by giving initiates disgusting food among others",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Many Nigerian initiation rites (e.g., Oro in Yorubaland) use challenges like bitter foods to test resilience and teach cultural values."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Nigeria is an example of plural society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's 250+ ethnic groups (Hausa-Fulani, Yoruba, Igbo, etc.) with distinct languages/religions exemplify pluralism, though this diversity often fuels tensions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Legal institution constructs and maintains order in the society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Laws and courts regulate behavior (e.g., Nigeria's Penal Code) and resolve disputes, though traditional systems (e.g., Igbo 'Umunna' councils) also play roles."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Colonialism involves all but ______",
+      "type": "OBJ",
+      "options": ["economics exploitation", "political marginalization", "social disorganization", "distortion of history", "equity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "equity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Colonialism exploited resources, marginalized natives, disrupted societies, and rewrote histories—but never promoted equity, which implies fairness and justice."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "The rising involvement of children in economic activities in Nigeria began since 1986",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Child labor predates 1986; colonial cash crops (1900s) and traditional farming systems long involved children. The 1986 SAPs worsened it by increasing poverty."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "In-group out-group consciousness emerges when groups compete for scarce resources",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Competition (e.g., land, jobs) heightens 'us vs. them' divisions, as seen in Nigeria's farmer-herder conflicts or ethnic job favoritism."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "The concept of culture area has been debunked because it attempts to atomize culture into disjointed clusters",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture area theory (Boas) oversimplified by mapping static boundaries. Modern anthropology emphasizes fluidity, hybridity, and globalization's impact on cultural exchange."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "The transformation of raw material into finished goods belongs to ______ sector of the economy",
+      "type": "OBJ",
+      "options": ["primary", "secondary", "tertiary", "nursery and pre-primary"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "secondary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Secondary sector includes manufacturing (e.g., turning crude oil into petrol, cocoa into chocolate), unlike primary (farming/mining) or tertiary (services)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The mechanism by which land is made available to cultivators is called",
+      "type": "OBJ",
+      "options": ["fallow system", "land tenure", "land acquisition", "occupancy right", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "land tenure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Land tenure systems (communal, leasehold, freehold) determine access rights. In Nigeria, 98% of rural land is under customary tenure, affecting agricultural productivity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "The two major groups of traditional healers are priests and supernatural healers",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional healers are more accurately categorized as natural healers (herbalists, bone-setters) and supernatural healers (diviners, spirit mediums). Priests are a subset of religious practitioners, not healers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "An Oba's judicial decision was enforced by the age grades called",
+      "type": "OBJ",
+      "options": ["Elegbe", "Ogboni", "Baal", "Sango", "Ife"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ogboni"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ogboni society in Yoruba kingdoms served as judicial enforcers for the Oba, implementing decisions and maintaining order through rituals and sanctions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Every society has a definite form of leadership or state form",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "All societies organize leadership, whether centralized (e.g., Benin monarchy) or decentralized (e.g., Igbo village democracies). Even stateless societies have governance structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "One of these is not a source of revenue in the traditional kingdoms",
+      "type": "OBJ",
+      "options": ["Taxes", "Tribute", "Court fees", "Tolls & Freight"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tolls & Freight"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial kingdoms relied on taxes (e.g., on harvests), tribute (from vassals), and court fees. 'Tolls & Freight' reflects modern trade systems, not traditional economies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Benin craftsmen exchanged their surplus cloth and beads with ____ people in the 15th Century",
+      "type": "OBJ",
+      "options": ["Akans", "Birom", "Hausa", "Yoruba", "Bornu"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hausa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Benin Kingdom traded extensively with Hausa city-states via trans-Saharan routes, exchanging crafts for goods like salt and textiles, as recorded by Portuguese explorers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Pick the odd one out",
+      "type": "OBJ",
+      "options": ["Lake", "Island", "Rivers", "Seas"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Island"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Lakes, rivers, and seas are water bodies, while an island is a landmass surrounded by water. This geographical distinction makes it the odd option."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "______ views the dynamic forces of cultural development as people not environment",
+      "type": "OBJ",
+      "options": ["Ecocentrism", "determinism", "Possibilism", "Dialectics"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Possibilism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Possibilism (vs. environmental determinism) argues humans adapt environments creatively (e.g., Igbo terrace farming), shaping culture beyond ecological constraints."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "The Argungu festival takes place in",
+      "type": "OBJ",
+      "options": ["Sokoto", "Katsina", "Kebbi", "Zamfara"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kebbi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Argungu, a famous fishing festival in Kebbi State, celebrates cultural heritage and attracts international tourists to the Sokoto River basin."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Flora and fauna are part of the abiotic environment",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Flora (plants) and fauna (animals) are biotic (living) components. Abiotic elements include non-living things like soil, water, and minerals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Widow inheritance is a type of levirate marriage",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Levirate marriage involves a widow marrying her deceased husband's brother (common in some Nigerian cultures like the Hausa), ensuring her economic security and lineage continuity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "______ is a socio-historical concept and embodiment of culture and an invention for adaptation to the environment",
+      "type": "OBJ",
+      "options": ["Heritage", "Cosmology", "culture", "symbol"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture represents the cumulative adaptation of human groups to their environments through tools, beliefs, and social structures over time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "Pre-colonial education was largely formal",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial education in Nigeria was primarily informal, occurring through apprenticeships, storytelling, and community participation rather than structured classrooms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "Abstinence rarely prevents HIV/AIDS infection",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Abstinence is 100% effective in preventing sexual transmission of HIV. The statement is false as it contradicts established medical knowledge."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Industry took the form of handcraft before the industrial revolution",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-industrial production relied on artisanal crafts (e.g., Benin bronze casting, Kano dye pits) before mechanization transformed manufacturing processes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "When two cultures meet diffusion takes place",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural diffusion describes the exchange of ideas, technologies, and practices between groups, as seen in Nigeria's adoption of Arabic script for Hausa."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Culture does not impede the control of HIV/AIDS",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural factors like widow inheritance, polygamy, and stigma have hindered HIV prevention efforts in Nigeria, making the statement false."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "In patrilineal system descent is traced through mother's and father's line",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Patrilineal systems (e.g., Hausa-Fulani) trace ancestry solely through the father's line. Bilineal systems use both parents' lineages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "______ is the smallest component of culture",
+      "type": "OBJ",
+      "options": ["units", "traits", "Area", "Religion"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "traits"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural traits are individual elements like greetings or tools that combine to form complexes (e.g., farming practices) and patterns (e.g., entire belief systems)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Members of subculture accept the dominant culture",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Subcultures (e.g., Nigerian hip-hop artists) coexist with and often adopt aspects of the dominant culture while maintaining distinct practices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Boko Haram is a counter culture phenomenon",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "As a group rejecting Western education and secular governance, Boko Haram fits the definition of a counterculture opposing mainstream Nigerian society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Darbar is the most important cultural festival in the north east and north central zones",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Durbar is primarily a northern (Hausa-Fulani) festival featuring horseback parades. Important NE/NC festivals include the Argungu fishing festival and Nzem Berom."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Which vegetation zone is referred to as cattle territory",
+      "type": "OBJ",
+      "options": ["sudan", "sahel", "Coastal", "forest", "grassland"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sudan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Sudan savanna (not to be confused with the country) provides ideal grazing lands for Fulani cattle due to its mix of grasses and seasonal water availability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "The concept of culture area has been debunked because it attempts to atomize culture into disjointed clusters",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Modern anthropology rejects rigid culture-area classifications, emphasizing fluid boundaries and hybridity in an interconnected world."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Ethnocentrism embraces social integration",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ethnocentrism (believing one's culture is superior) often creates division, while integration requires cultural relativism and mutual respect."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Human brain is an important aspect of culture",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While the brain enables cultural learning, culture itself consists of learned behaviors and ideas, not biological organs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Which of these is a rite of passage",
+      "type": "OBJ",
+      "options": ["building a house", "planting online", "marriage", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "marriage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marriage universally marks the transition to adulthood, often involving rituals like Yoruba 'Igba Nkwu' or Hausa 'Kamu' ceremonies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "The brand called Moroccan leather is ______",
+      "type": "OBJ",
+      "options": ["our church", "brown", "blue", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "none"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This appears to be a corrupted question. Moroccan leather refers to a high-quality leather type, not a specific color or brand called 'our church'."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Ife art emerged in the 21st century",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ife's naturalistic bronze/terra-cotta sculptures date to 12th-15th centuries CE, making them medieval African masterpieces, not modern works."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Priests are mediators between two or more supernatural beings",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Priests mediate between humans and the divine (e.g., Yoruba Babalawo consulting Orunmila), not between supernatural entities themselves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "Dynastic struggle amongst the Guineas of Karton was forestalled by sending them to provinces",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Historical records show some West African kingdoms (e.g., Kanem-Bornu) exiled rival princes to provinces to prevent succession conflicts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "The principle that every culture should be assessed with standards from within is",
+      "type": "OBJ",
+      "options": ["Acculturation", "Enculturation", "relativism", "ethnocentrism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "relativism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural relativism opposes ethnocentrism by evaluating practices (e.g., polygamy) within their own cultural context rather than external norms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "A rule against incest is a mores",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Incest taboos are mores—strict moral norms with serious consequences for violation, found universally across human societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "A group cannot retain ownership of public land after being compensated but can cultivate durable crops on it",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Once compensated for public land acquisition (e.g., for infrastructure), groups typically lose all rights, including cultivation, unless special agreements exist."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "The earliest forms of clothing use were made from all except",
+      "type": "OBJ",
+      "options": ["animal skin", "Ginned cotton", "Bark of trees", "leaves of raffia palm", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ginned cotton"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Early clothing used readily available materials (hides, bark, leaves). Ginned cotton requires advanced processing technology developed much later."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Guinea, sudan and sahel are types of forest vegetation",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These are savanna and semi-arid zones in West Africa. Forest vegetation includes tropical rainforests like Nigeria's Cross River and Omo reserves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "Question": {
+      "content": "What is the agency responsible for the coordination of national HIV/AIDS called",
+      "type": "OBJ",
+      "options": ["UNICEF", "UNESCO", "ACTION AIDS", "NACA"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NACA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The National Agency for the Control of AIDS (NACA) is Nigeria's official body for HIV/AIDS policy coordination, established in 2000 to oversee prevention and treatment programs nationwide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "Question": {
+      "content": "Social mobility refers to the extent to which people can move from one social stratum to another",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Social mobility measures movement between classes (e.g., from peasant to elite through education or wealth). Nigeria's oil economy and education system enable some mobility despite structural barriers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "Question": {
+      "content": "The Hausa, Oyo and Benin kingdoms are typical examples of centralized systems that existed in traditional society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These kingdoms had hierarchical governance: Hausa city-states under emirs, Oyo's Alaafin with Oyomesi council, and Benin's Ogiso/Oba system, contrasting with decentralized Igbo societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "Question": {
+      "content": "In any given community, ______ is a group that assumes superior identity and lays more claims to leadership positions",
+      "type": "OBJ",
+      "options": ["Kinship", "Affiliation", "Royalty and Nobility", "sex", "descent superiority"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Royalty and Nobility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Aristocratic classes (e.g., Hausa Sarakuna, Yoruba Omo-Oba) traditionally monopolized leadership through hereditary claims, though modern Nigeria blends this with democratic elections."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "Question": {
+      "content": "All of the following are criteria for occupying leadership positions in Nigeria except",
+      "type": "OBJ",
+      "options": ["property ownership and control", "sex", "marriage", "royalty and nobility"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "marriage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While wealth (property), gender (sex), and lineage (royalty) influence leadership selection, marital status is generally irrelevant in traditional or modern Nigerian politics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "Question": {
+      "content": "All of these are Fafunwa's discussion on the objectives of traditional education in Nigeria except",
+      "type": "OBJ",
+      "options": [
+        "to develop in child's latent physical skills",
+        "to develop character",
+        "to inculcate respect for elders and those in authority",
+        "to develop curriculum for Nomadic education"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "to develop curriculum for Nomadic education"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Professor Fafunwa's work focused on indigenous education's holistic goals (skills, character, respect). Nomadic education programs emerged later (1980s) as specialized interventions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "Question": {
+      "content": "Traditional education was effective in diverse ways. The more potent ones include family, peer group education, festival education, cultural meetings and rites of passage",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These informal channels successfully transmitted knowledge (e.g., farming via family, morals through folktales, history via festivals) in pre-colonial Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "Question": {
+      "content": "The Benin art works constitute the largest body of sculptures of Nigeria's heritage",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "With thousands of bronze plaques, ivory carvings, and terra-cotta pieces looted in 1897 and now in global museums, Benin's corpus surpasses other Nigerian traditions in volume."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "Question": {
+      "content": "Mining and civil engineering technology and practices were well established in pre-colonial Nigeria societies",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Evidence includes Nok iron smelting (500BC), Igbo-Ukwu bronze casting (9th century), and Yoruba urban planning (e.g., Ife's drainage systems)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "Question": {
+      "content": "In pre-colonial times Nupe had open guild system in which relatives of the masters, as well as strangers were free to enter and learn various specialized crafts within the industry",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nupe metalworkers, weavers, and glassmakers operated inclusive guilds, contrasting with secretive systems like Benin's bronze-casting families."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "Question": {
+      "content": "The ancient Nok people lived in the",
+      "type": "OBJ",
+      "options": [
+        "Borno area of Northern Nigeria",
+        "plateau area of Northern Nigeria",
+        "Kano area of Northern Nigeria",
+        "Sokoto area of Northern Nigeria"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "plateau area of Northern Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nok culture (1500BC-200AD) flourished in present-day Kaduna, Plateau, and Nasarawa states, known for iconic terra-cotta sculptures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "Question": {
+      "content": "Nigeria is currently made up of ____ different ethnic/linguistic and cultural groups held together by blood, marriage, social, economic and political interdependence",
+      "type": "OBJ",
+      "options": ["200", "150", "350", "250"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "250"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Though estimates vary, Nigeria officially recognizes 250+ ethnic groups, with Hausa-Fulani, Yoruba, and Igbo being the largest."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "Question": {
+      "content": "The Fulani practice an indigenous segment lineage system before the advent of Islam",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-Islamic Fulani had a patrilineal clan system (lenyol) organized around cattle herding. Islam later added new social structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "Question": {
+      "content": "Farming was central to the Yoruba economy. International features of this economy are",
+      "type": "OBJ",
+      "options": [
+        "yam and cocoa trade",
+        "cassava and kola trade",
+        "cocoa and kola trade",
+        "rice and cocoa trade"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "cocoa and kola trade"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Yoruba farmers dominated cash crops: cocoa (introduced 1874) for European markets and kola nuts (a stimulant) for trans-Saharan trade to North Africa."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "Question": {
+      "content": "The Igbo economy was based on agriculture. Yam remains the major crop but it is controlled by men",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Yam ('king of crops') is male-dominated in Igbo culture, with rituals like the New Yam Festival (Iri Ji), while women typically control cassava and garden crops."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "Question": {
+      "content": "Ekwurigwe described the Hausa as having a type of village administration based on _____ descent lineage kinship system",
+      "type": "OBJ",
+      "options": ["matrilineal", "patrilineal", "bilateral", "double"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "patrilineal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hausa society is strictly patrilineal, with inheritance and titles passing through male lines, reinforced by Islamic norms post-14th century."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "Question": {
+      "content": "Examples of patrilineal descent systems are all of the following except",
+      "type": "OBJ",
+      "options": ["Igbo", "Ikwerre", "Yoruba", "Fulani"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Igbo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Most Igbo subgroups use a bilateral system tracing both parents' lineages, unlike the strictly patrilineal Hausa-Fulani, Yoruba, and Ikwerre."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "Question": {
+      "content": "The practice of marrying a wife for a deceased relation is called",
+      "type": "OBJ",
+      "options": ["pawn marriage", "Gift marriage", "ghost marriage", "widow inheritance"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ghost marriage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ghost marriage (e.g., in Dinka culture) ensures lineage continuity when a man dies unmarried. Widow inheritance involves marrying a brother's widow (levirate)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "Question": {
+      "content": "The first case of HIV/AIDS in Nigeria was diagnosed in",
+      "type": "OBJ",
+      "options": ["1988", "1989", "1990", "1986"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1986"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's index case was identified in Lagos five years after the global epidemic began. NACA records confirm 1986 as the start of Nigeria's HIV timeline."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "Question": {
+      "content": "Leboku is an annual new yam festival celebrated amongst the people of",
+      "type": "OBJ",
+      "options": ["Yoruba", "Hausa", "Yakur", "Osun Oshogbo"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yakur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Leboku festival marks the yam harvest among the Yakurr (Cross River State), featuring dances like 'Biko-Biko' and communal feasting."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "Question": {
+      "content": "Odunghshine festival is the most important cultural celebration among the",
+      "type": "OBJ",
+      "options": ["Ikwerre", "Kalabari", "Wakirike (Okrika)", "Nembe"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wakirike (Okrika)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Odumgba/Okrika masquerade festival showcases Ijaw (Wakirike subgroup) water spirits and ancestral veneration through elaborate performances."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "Question": {
+      "content": "Religion is inextricably tied up with a people's culture",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religious beliefs shape cultural practices - from Yoruba Ifá divination influencing art to Islamic festivals like Eid being national holidays in Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "Question": {
+      "content": "Sigmund Freud sees religion as necessary for the survival of society a means of social cohesion",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Freud viewed religion as an 'illusion' fulfilling psychological needs, unlike Durkheim who argued it promotes social cohesion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "Question": {
+      "content": "______ looked at religion as having potential for causing social change and for stirring up social upheaval?",
+      "type": "OBJ",
+      "options": ["Karl Marx", "Talcott Parsons", "Max Weber", "Emile Durkheim"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Max Weber"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Weber's *The Protestant Ethic* showed how Calvinism spurred capitalism, while Marx saw religion as an 'opiate' suppressing revolution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "Question": {
+      "content": "Culture has two basic components or aspects as",
+      "type": "OBJ",
+      "options": [
+        "customs and rites of passage",
+        "sub-culture and counter culture",
+        "Norms and values",
+        "material and Non-material culture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "material and Non-material culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Material culture includes tangible items (tools, clothing), while non-material encompasses ideas (language, beliefs). This dichotomy is fundamental in anthropology."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "Question": {
+      "content": "Culture does not include one of these",
+      "type": "OBJ",
+      "options": [
+        "technology",
+        "patterns of behavior",
+        "complexion in man",
+        "commitment to work"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "complexion in man"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Skin complexion is a biological trait, not a cultural one. Culture encompasses learned behaviors (work ethics), technologies, and social patterns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "Question": {
+      "content": "Rites of passage are",
+      "type": "OBJ",
+      "options": [
+        "from IsuEtche",
+        "Isu seasonal ceremony",
+        "Rituals involving life cycle",
+        "Ritual activities for the youth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rituals involving life cycle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Rites of passage (e.g., Igbo Iri Ji, Yoruba Ikomo) mark transitions between life stages like birth, adulthood, marriage, and death, not just youth activities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "Question": {
+      "content": "Which of these will be generally regarded as bad in any society",
+      "type": "OBJ",
+      "options": [
+        "culture",
+        "sub-culture",
+        "plural-culture",
+        "counter-culture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "counter-culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Counter-cultures (e.g., Boko Haram) actively oppose mainstream societal values, often violently. Subcultures and pluralism coexist with dominant cultures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "Question": {
+      "content": "The public land tenure practice is",
+      "type": "OBJ",
+      "options": [
+        "a general feature in Nigeria",
+        "a permanent right of individuals",
+        "the concern of farmers only",
+        "too cumbersome to operate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "a general feature in Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's Land Use Act (1978) nationalized all land, making public tenure standard. However, customary systems still dominate rural areas, creating dual systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "Question": {
+      "content": "Early traces of animals domesticated in Nigeria is dated to the",
+      "type": "OBJ",
+      "options": [
+        "Bronze Smith era",
+        "Jihad era",
+        "Nok era",
+        "Ivory Carving era"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nok era"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Archaeological evidence shows cattle, goats, and dogs were domesticated during the Nok civilization (1500BC-200AD), predating Islamic jihad periods by millennia."
+    }
+  }
+]
