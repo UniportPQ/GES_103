@@ -1,13 +1,1664 @@
-[   {
-   "type": "pageInfo",
-   "kind": "pureOBJ",
-   "course_title": "Nigeria People and culture",
-   "code": "GES 103.2",
-   "session": "2010/2011",
-   "time": "120"
- },
- {
-   "type": "Instruction",
-   "content": "Answer all questions."
- }
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Nigerian People and culture",
+    "code": "GES 103",
+    "session": "2010/2011",
+    "time": "120"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Population growth, leadership, invention and exploitable resources are sources of social and cultural change",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These factors are widely recognized as drivers of social and cultural change in sociological studies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Culture is the context in which human social existence makes a meaning",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture provides the framework for shared meanings, values, and practices in human societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "There was no gender differentiation in the way children were reared in traditional Nigeria",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional Nigerian societies often had distinct roles and expectations for male and female children."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Umunna is the central point of unity in Igbo politics",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Umunna (patrilineage) is a foundational social and political unit in Igbo culture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Kinship affiliation is not a criterion for leadership in Nigeria",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kinship ties often influence leadership selection in traditional and modern Nigerian contexts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Nape people believe in guardian spirits and spirit double",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Nape people's spiritual beliefs include guardian spirits and the concept of a spirit double."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Religion differentiates between the sacred and the profane",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A core function of religion is to demarcate sacred (holy) from profane (ordinary) realms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "In the last analysis the motive force for social and cultural change is economic",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Economic factors (e.g., resources, production) are often the underlying driver of societal changes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "______ exhaustively discussed the objectives of traditional education",
+      "type": "OBJ",
+      "options": ["Anele", "Okodudu", "Fafunwa", "Rasome-Kuti"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fafunwa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Professor Fafunwa is a renowned scholar on African traditional education systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Every society has a unique combination of cultural features",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural configurations vary across societies due to historical, environmental, and social factors."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Rituals that accompany a change in place, date, social position and age are rites of passage",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Rites of passage mark transitions between life stages or social statuses in many cultures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "______ carried out a Jihad in Northern Nigeria",
+      "type": "OBJ",
+      "options": ["Annual Bellow", "TafawaBalewa", "GaliNtaba", "Uthman Dan Fodio"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uthman Dan Fodio"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Uthman Dan Fodio (answer D) led the 19th-century Fulani Jihad that established the Sokoto Caliphate, transforming Northern Nigeria's political and religious landscape."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "All cultural festivals in traditional Nigeria are geared towards the worship of Idols and deities",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While many festivals have religious elements, others celebrate harvests (New Yam Festival), historical events, or community bonding, making the statement too absolute."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Education in traditional Nigeria was always planned, purposive, and organized",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional education was often informal (apprenticeships, storytelling) and varied by community, though it had clear cultural objectives."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Cultural relativism is for all its ethnocentrism",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural relativism (understanding cultures on their own terms) directly opposes ethnocentrism (judging others by one's own cultural standards)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Cultural ecology includes people experiencing the environment of a given culture area, their perception and utilization of it",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural ecology examines how human societies adapt to their environments, like the Igbo's forest-based farming or Fulani nomadic pastoralism."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The cloth industry began in West Africa after AD 1800",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "West Africa had advanced textile production (e.g., Yoruba Aso Oke, Hausa indigo-dyed cloth) centuries before 1800, traded across the Sahara."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Wife capture was practiced in parts of Abakaliki",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Some Igbo subgroups near Abakaliki historically practiced symbolic wife capture (ịgba mbanya), though it was ritualized, not actual abduction."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Gift marriage was practiced among the Ogoni",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ogoni sometimes practiced gift marriage (no bride-price), often to strengthen alliances between families or as compensation for wrongdoing."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Health and culture are mutually exclusive",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture shapes health practices (e.g., traditional medicine, food taboos). For example, the Yoruba use of herbs (ewe) shows this connection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Migrant super-ordination is not possible with a large indigenous population",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "History shows migrant groups can dominate numerically larger populations through technology (e.g., colonial rule) or political organization."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Family education is part and parcel of traditional education",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Families taught essential skills (farming, crafts) and values (respect for elders) long before formal schools existed in Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Among __ people, a pregnant woman must leave her husband's home to have her baby elsewhere",
+      "type": "OBJ",
+      "options": ["Igbo", "Igboa", "Fulani", "Angas", "Birom"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Birom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Birom (Plateau State) traditionally sent women to their parents' homes for childbirth, believing it ensured safety and ancestral blessings."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Pick the odd one out",
+      "type": "OBJ",
+      "options": ["Norms", "values", "customs", "kinship", "belief"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "kinship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kinship refers to family relationships, while the others (norms, values, customs, beliefs) are intangible cultural concepts guiding behavior."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Priests act as mediators between two or more supernatural beings",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Priests mediate between humans and the divine (e.g., Yoruba Babalawo consulting Orunmila), not between supernatural entities themselves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Orisa is worshipped among ______ people",
+      "type": "OBJ",
+      "options": ["Igbo", "Fulani", "Hausa", "Yoruba"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yoruba"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Orisa (Orisha) worship is central to Yoruba religion, with deities like Sango (thunder) and Oshun (water) revered in Ifá tradition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Man survives in diverse environments therefore culture is adaptive",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Human cultures evolve to suit environments: Fulani nomadism for arid Sahel, Ijaw canoe technology for Niger Delta waterways."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Among the Urhobo, a bride takes an oath of fidelity",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Urhobo marriage rites include 'Ikpoho-ovie' where the bride swears loyalty with symbolic kola nuts, binding her to marital vows."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Which of these is not a common totem in riverine communities?",
+      "type": "OBJ",
+      "options": ["tortoise", "phthon", "alligator", "snail", "bull"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bull"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Riverine totems (e.g., alligator, water tortoise) reflect aquatic ecosystems. Bulls are land animals, associated with pastoralist groups like the Fulani."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Sororate polygamy involves",
+      "type": "OBJ",
+      "options": ["two brothers", "two sisters", "two friends", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "two sisters"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sororate polygamy (answer B) occurs when a man marries sisters, often sequentially if the first wife dies or is infertile. This practice strengthens family alliances, seen in some Nigerian ethnic groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which of these practices double descent",
+      "type": "OBJ",
+      "options": ["Ikwerre", "Lowili", "Yoruba", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lowili"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Lowili (answer B) trace lineage through both parents (double descent), unlike the Yoruba (patrilineal) or Ikwerre. This system balances inheritance rights from maternal and paternal kin."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Age, property ownership and descent superiority are criteria for political leadership",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In many traditional Nigerian societies (e.g., Hausa-Fulani emirates, Igbo gerontocracy), leadership required advanced age (wisdom), wealth (property), and royal/aristocratic lineage (descent)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Political institution constructs and maintains order in society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Political institutions (e.g., governments, legal systems) create laws and structures to organize societal behavior and resolve conflicts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "______ is a characteristic of culture",
+      "type": "OBJ",
+      "options": ["preferred", "universal", "conventional", "valuable"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "universal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture is universal—all human societies have cultural systems, though specific practices vary."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Kinship is a bond established by blood, marriage, or adoption",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kinship defines family relationships through biological ties (blood), legal unions (marriage), or social agreements (adoption)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Herbalists are natural healers",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Herbalists use plants and traditional knowledge to treat illnesses, embodying natural healing practices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "______ viewed the state as a public property set out to promote the common good",
+      "type": "OBJ",
+      "options": ["Plato", "Weber", "Marx", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plato"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Plato argued in *The Republic* that the state should serve collective welfare, not individual interests."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "______ explains a situation in which people are expected to marry within their communities or clans",
+      "type": "OBJ",
+      "options": ["Polygamy", "hypergamy", "ecotgamy", "bridogamy", "exogamy"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "exogamy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Exogamy requires marriage outside one's social group (e.g., clan). The question describes *endogamy* (marrying within a group), but 'exogamy' is the closest listed term."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "A man and his wife with or without children make up",
+      "type": "OBJ",
+      "options": ["conjugal family", "bridal family", "neonatal family", "extended family", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "conjugal family"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A conjugal (nuclear) family consists of spouses and their children, if any, living as a unit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Among the Yoruba, the father of mysteries is",
+      "type": "OBJ",
+      "options": ["Badgiravo", "Obatala", "Orisala", "Onii"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Orisala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Orisala (Orunmila) is the Yoruba deity of wisdom and divination, central to Ifá spiritual traditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "The amalgamation of the northern and southern protectorates took place in",
+      "type": "OBJ",
+      "options": ["1912", "1960", "1823", "1914", "1904"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1914"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "British colonial ruler Lord Lugard merged Nigeria's northern and southern protectorates in 1914 for administrative efficiency."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Weber described religion as the opium of the masses",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Karl Marx, not Weber, famously called religion 'the opium of the people,' criticizing its role in pacifying social discontent."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Social inequality is not synonymous with stratification",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Stratification refers to systemic social inequality (e.g., class, caste), making the terms closely linked."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "A negative result after a person’s first HPV/AIDS test may not necessarily mean that he has not contracted the virus",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "HIV can have a 'window period' where tests are negative despite infection. Repeat testing is often needed for confirmation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "Acculturation of all minority group members occurs at once",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acculturation is gradual and varies by individual; some may retain original cultural practices while others adopt new ones at different paces."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Culture refers only to some aspects of human social existence",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Culture encompasses all aspects of social life—language, beliefs, customs, arts, and institutions—not just select parts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "The life cycle rituals symbolizing the achievement of a new status is called Rites of passage",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Rites of passage (e.g., Igbo 'Iri Ji' coming-of-age ceremonies) mark transitions like birth, adulthood, marriage, or death."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "The process of acquiring the culture of another ethnic group is called",
+      "type": "OBJ",
+      "options": ["Accommodation", "acculturation", "socialization", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "acculturation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acculturation describes cultural exchange or adoption, like how colonial languages influenced Nigerian indigenous cultures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Members of a subculture reject the dominant culture",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Subcultures (e.g., Nigerian hip-hop artists) often coexist with the dominant culture, adapting its elements while adding unique practices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "One of these is a part of nonmaterial culture",
+      "type": "OBJ",
+      "options": ["ideas", "building", "tools", "drum"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ideas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nonmaterial culture includes intangible elements like beliefs (ideas), while buildings/tools/drums are material artifacts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Culture will be extinct when shared",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sharing culture (e.g., oral traditions) preserves it; extinction occurs when practices are abandoned or suppressed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "The principle that every culture should be assessed with standards from within is",
+      "type": "OBJ",
+      "options": ["acculturation", "enculturation", "relativism", "enthocentrism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "relativism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural relativism opposes ethnocentrism by judging cultures based on their own context, not external standards."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "The marriage of close cousins is called ______ marriage",
+      "type": "OBJ",
+      "options": ["gift", "preferred", "approved", "pawful"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "preferred"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cousin marriage (e.g., among some Hausa families) is termed 'preferred' when culturally encouraged to strengthen kinship ties."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Opportunity for contact impedes or accelerates acculturation",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Contact (e.g., trade, migration) speeds up cultural exchange, as seen in Nigeria’s blend of indigenous and foreign traditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Cultural boundaries in Nigeria are fluid",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigerian cultures overlap through intermarriage, urbanization, and shared practices (e.g., Yoruba-Islamic fusion in northern Yorubaland)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Tribute is a source of revenue in the traditional kingdoms",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial kingdoms (e.g., Benin, Sokoto) collected tribute from vassal states or subjects as taxes/goods for royal upkeep."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Mai was the title of rulers in",
+      "type": "OBJ",
+      "options": ["Hausa", "Fulani", "Tiv", "Kanem-Bornu"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kanem-Bornu"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Kanem-Bornu Empire (Lake Chad region) used 'Mai' for kings, notably during the Sayfawa dynasty’s rule."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Those practicing abstinence are prone to HIV/AIDS",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Abstinence eliminates sexual transmission risk; HIV spreads through unprotected sex, contaminated needles, or mother-to-child transmission."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Culture can be changed therefore it is said to be",
+      "type": "OBJ",
+      "options": ["dynamic", "resistant", "stratified", "static", "fixed"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dynamic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural dynamism reflects adaptation over time, like how Nigerian pidgin evolves with new slang or global influences."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Culture and society are one and the same thing",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Society refers to people interacting in a territory, while culture is their shared way of life—related but distinct concepts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Some industries in Nigeria were operated by guilds",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial guilds (e.g., Igbo blacksmiths, Benin bronze casters) regulated crafts through apprenticeship and quality control."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "Culture is transmitted during socialization",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Families, schools, and peers teach language, norms, and values—like Yoruba children learning proverbs from elders."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "The capacity to command obedience of others even against their resistance is called",
+      "type": "OBJ",
+      "options": ["power", "influence", "prestige", "authority", "status"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "power"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Power involves coercion (e.g., colonial rule), unlike authority (legitimized power) or influence (persuasion)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "It is believed that a child of an Osu person is an Osu therefore social status is",
+      "type": "OBJ",
+      "options": ["Achieved", "Merited", "Ascribed", "acquired"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ascribed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Osu caste system in Igbo culture assigns status by birth (ascription), not personal effort (achievement). This reflects rigid hereditary social stratification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "The conjugal family is the most basic type of family",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A conjugal (nuclear) family—parents and children—is universally recognized as the foundational family unit, though extended families are equally important in many cultures like Nigeria's."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "The serfs, peasants and slaves in the Hausa/Fulani kingdom are referred to as",
+      "type": "OBJ",
+      "options": ["Isarikim", "Talakwa", "Emirates", "Almanjoeri", "none"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Talakwa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In the Hausa/Fulani feudal system, 'Talakawa' denoted the lower class of farmers and laborers, distinct from the ruling aristocracy ('Sarakuna')."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Scholars who subscribe to functionalism argue that stratification is universal and functionally necessary",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functionalists like Davis & Moore claim stratification motivates people to fill vital roles (e.g., doctors vs. laborers), though this view is critiqued for justifying inequality."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "Question": {
+      "content": "One of these did not have a centralized authority system",
+      "type": "OBJ",
+      "options": ["Kanem-Bornu", "Igbo", "Benin", "Oyo", "Hausa"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Igbo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Igbo pre-colonial system used decentralized village democracies (e.g., council of elders) unlike the centralized kingdoms of Kanem-Bornu, Benin, Oyo, and Hausa city-states."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "Question": {
+      "content": "Pick the odd one out",
+      "type": "OBJ",
+      "options": ["Slavery", "Feudalism", "capitalism", "functionalism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "functionalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functionalism is a sociological theory, while slavery, feudalism, and capitalism are economic systems that organize labor and production."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "Question": {
+      "content": "Mores and folkways are types of",
+      "type": "OBJ",
+      "options": ["values", "belief", "culture", "customs", "norms"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "norms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mores (strict moral rules) and folkways (casual customs) are categories of social norms governing behavior in a society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "Question": {
+      "content": "The act of restraining first daughters from marriage to continue the family name is called Sirah syndrome",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This practice is called 'primogeniture' (when applied to sons) or specific cultural traditions, but 'Sirah syndrome' is not a recognized anthropological term."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "Question": {
+      "content": "A system in which people trace ancestry links over many generations is",
+      "type": "OBJ",
+      "options": ["ancestors", "kingship", "descend", "descent", "kinship"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "descent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Descent systems (e.g., patrilineal, matrilineal) determine how families trace lineage across generations, distinct from broader kinship networks."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "Question": {
+      "content": "Which country hosted the 2010 international conference on HIV/AIDS?",
+      "type": "OBJ",
+      "options": ["Austria", "Paris", "Delhi", "Geneva"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Austria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The XVIII International AIDS Conference was held in Vienna, Austria, in 2010, focusing on global HIV response and human rights."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "Question": {
+      "content": "Ife and ______ arts have very close similarities",
+      "type": "OBJ",
+      "options": ["Nupe", "Nois", "Igbo-Ukwu", "Lantang"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Igbo-Ukwu"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ife (Yoruba) and Igbo-Ukwu bronze/terra-cotta sculptures share naturalistic styles, suggesting historical cultural exchanges in ancient Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "Question": {
+      "content": "Which of these is a type of descent?",
+      "type": "OBJ",
+      "options": ["Affinity", "consumption", "bilateral", "uzonilineal"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bilateral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bilateral descent traces ancestry through both parents, unlike unilineal systems (patrilineal/matrilineal). 'Uzonilineal' is not a valid term."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "Question": {
+      "content": "Another word for a people's world view is reincarnation",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A worldview (e.g., cosmology) encompasses beliefs about existence, while reincarnation specifically refers to rebirth of souls—a narrower concept."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "Question": {
+      "content": "The process of giving access and right of use over land is known as",
+      "type": "OBJ",
+      "options": ["land tenure", "lead utility", "landscape", "land maneuver", "land agency"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "land tenure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Land tenure systems (e.g., communal, leasehold) define how individuals/groups legally hold or use land, critical in Nigerian agrarian communities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "Question": {
+      "content": "Social inequality is an insignificant feature in human society",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Social inequality (e.g., class, caste) is a persistent, significant feature of societies, shaping access to resources and opportunities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "Question": {
+      "content": "______ is not a healing process employed by tradition",
+      "type": "OBJ",
+      "options": ["flogging", "giving of body marks", "chaining to stake", "suffering"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "suffering"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional healing methods often involve active interventions (e.g., flogging for spiritual cleansing, body marks for identification), while 'suffering' is an outcome, not a healing process."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "Question": {
+      "content": "The act of a smaller culture that reflects the dominant culture is",
+      "type": "OBJ",
+      "options": ["counterculture", "cultural relativism", "subculture", "mock culture", "intra culture"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "subculture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Subcultures (e.g., Nigerian hip-hop artists) adopt elements of the dominant culture while maintaining unique practices, unlike countercultures that oppose it."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "Question": {
+      "content": "______ is the first point of contact in the health care system",
+      "type": "OBJ",
+      "options": ["primary", "secondary", "Rudimentary", "Initial"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "primary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Primary care (e.g., community clinics) is the entry point for health services, where initial diagnoses and basic treatments occur before referrals to secondary/tertiary levels."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "Question": {
+      "content": "An ecosystem refers to",
+      "type": "OBJ",
+      "options": ["community and its habitat", "plant and animal population", "economy and population", "an assemblage of organisms"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "community and its habitat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ecosystems include biotic (living organisms) and abiotic (soil, water) components interacting in an environment, like Nigeria's Niger Delta mangroves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "Question": {
+      "content": "______ is when a person or any part of the body functions abnormally",
+      "type": "OBJ",
+      "options": ["disease", "infection", "madness", "knowing ones kindred"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "disease"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Disease is a broad term for abnormal bodily function (e.g., malaria), while infection specifically involves pathogens, and madness is a colloquial term for mental illness."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "Question": {
+      "content": "______ infections attack people whose immune system have been badly compromised",
+      "type": "OBJ",
+      "options": ["vigorous", "opportunistic", "syndrome", "immune deficiency", "immune"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "opportunistic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Opportunistic infections (e.g., tuberculosis in HIV patients) exploit weakened immune systems, unlike regular infections that can affect healthy individuals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "Question": {
+      "content": "The universally accepted beginning of a family is",
+      "type": "OBJ",
+      "options": ["marriage", "child birth", "building a family home", "known ones kindred"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "marriage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marriage is widely recognized as the foundation of family formation across cultures, establishing social and legal bonds before childbirth or cohabitation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "Question": {
+      "content": "Those who think that their culture is more superior to others are",
+      "type": "OBJ",
+      "options": ["Ethnologistic", "Ethnocentric", "Senocentric", "Malinocentric", "culturecentric"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethnocentric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ethnocentrism describes judging other cultures by one's own standards, often leading to bias. This contrasts with cultural relativism, which evaluates cultures contextually."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "Question": {
+      "content": "Those who use divination in the diagnoses are natural healers",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional healers (e.g., Yoruba Babalawo) often combine divination (Ifá) with herbal remedies, blending spiritual and natural healing methods."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "Question": {
+      "content": "The rule of elders is called gerontocracy",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gerontocracy (e.g., Igbo elder councils) is governance by elders, valued for their wisdom and experience in many traditional societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "Question": {
+      "content": "The first case of AIDS in Nigeria was detected in",
+      "type": "OBJ",
+      "options": ["1991", "1981", "1998", "1986", "1999"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1986"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's first HIV case was reported in 1986, five years after the global emergence of AIDS, marking the start of the epidemic in the country."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "Question": {
+      "content": "______ is the smallest component of culture",
+      "type": "OBJ",
+      "options": ["units", "traits", "Areas", "regions", "institutions"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "traits"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural traits (e.g., shaking hands, wearing specific attire) are the most basic units of culture, which combine to form complexes and patterns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "Question": {
+      "content": "Female genital mutilation is said to be decreasing because of advocacy",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Global and local advocacy efforts (e.g., Nigeria's Violence Against Persons Prohibition Act) have reduced FGM prevalence through education and legal measures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "Question": {
+      "content": "In ______ descent system individuals acquire membership in both patrilineal and matrilineal groups according to culturally determined rules",
+      "type": "OBJ",
+      "options": ["Ambilineal", "unilineal", "matrilineal", "polylineal", "Double descent"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Double descent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Double descent (e.g., in some West African groups) allows inheritance of material goods from the father's line and spiritual rights from the mother's line."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "Question": {
+      "content": "In matrilineal societies property is inherited from",
+      "type": "OBJ",
+      "options": ["mother", "a female head", "mother’s brother", "sisters"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mother’s brother"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Matrilineal systems (e.g., Akan in Ghana) often use avunculate inheritance, where a man's property passes to his sister's sons, not his own children."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "Question": {
+      "content": "Human physiology is an important aspect of culture",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Physiology (biological body functions) is universal, while culture shapes how societies interpret or manage physiological phenomena (e.g., menstruation taboos)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "Question": {
+      "content": "When a couple lives in their own house, the pattern is",
+      "type": "OBJ",
+      "options": ["natalocal", "neolocal", "uzorilocal", "unilocal"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "neolocal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Neolocal residence (establishing a new household) is common in urban settings, unlike natalocal (staying with birth families) or patrilocal/matrilocal systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "Question": {
+      "content": "Culture does not impede the control of HIV/AIDS",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural factors (e.g., stigma, gender norms limiting condom use) can hinder HIV prevention efforts, though education programs aim to address these barriers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "Question": {
+      "content": "The Osu caste has neither a religious nor economic basis",
+      "type": "OBJ",
+      "options": ["true", "false"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Osu system in Igbo culture originated as a religious caste (linked to deity worship) and later influenced economic/social exclusion, though modern reforms challenge this."
+    }
+  }
 ]
+
