@@ -1,0 +1,4856 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Nigerian People and culture",
+  "code": "GES 103",
+  "session": "2017/2018",
+  "time": "120"
+},
+{
+  "type": "Instruction",
+  "content": "Answer all questions."
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "The post-independence Nigerian economy has been characterized by ______",
+      "type": "OBJ",
+      "options": ["Pro-imperialism", "Neo-colonial capitalism", "independent capitalism", "Expatriate domination", "all of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Neo-colonial capitalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "After independence, Nigeria's economy remained tied to foreign control, resembling colonial economic structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The goal of national development is to ______",
+      "type": "OBJ",
+      "options": ["Improve the living conditions of the citizenry", "Provide employment", "Fight corruption", "Achieve economic growth"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improve the living conditions of the citizenry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "National development aims to enhance citizens' quality of life through better services and opportunities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Nigeria was introduced into the world capitalist system during the ______ economy.",
+      "type": "OBJ",
+      "options": ["Independence", "Pre-colonial", "post-independence", "Colonial"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colonial"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "British colonial rule integrated Nigeria into global capitalism by exploiting its resources for foreign markets."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "NEEDS ______ document stated that Nigeria had one of the greatest economies in the world",
+      "type": "OBJ",
+      "options": ["2003", "2004", "2005", "2006"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2004"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The 2004 NEEDS report highlighted Nigeria's economic potential during a period of reform."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "There is the persistence of the ______ rather than the productive nature of the economy.",
+      "type": "OBJ",
+      "options": ["Interventionist", "Imperialist", "Mercantilist", "Capitalist"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mercantilist"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's economy relies more on trade and resource extraction than on local production and innovation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Massive plundering of Nigeria’s economic resources was initially carried out by ______",
+      "type": "OBJ",
+      "options": ["Nigerians", "Imperialist", "British", "Ruling Class"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "British"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "During colonial rule, Britain extracted Nigeria's resources like oil and minerals for its own benefit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "______ blocked the way for natural and gradual capitalist development in Nigeria.",
+      "type": "OBJ",
+      "options": ["Imperialism and capitalism", "Colonialism and capitalism", "Capitalism and domination", "Interventionism and capitalism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colonialism and capitalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Colonial rule disrupted local economic systems, while capitalism prioritized foreign interests over Nigeria's growth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Nigeria has adopted ______ development plans since independence?",
+      "type": "OBJ",
+      "options": ["4", "5", "6", "7"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Since gaining independence in 1960, Nigeria has implemented seven national development plans to guide economic growth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Pre-capitalist Nigerian economy thrived on barter and ______",
+      "type": "OBJ",
+      "options": ["Reciprocity", "Subsistence", "Agriculture", "Trade"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reciprocity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Before modern capitalism, Nigerians exchanged goods and services through barter and reciprocal community sharing systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Traditional Nigerian economy was marked by division of labour according to ______ and",
+      "type": "OBJ",
+      "options": ["Sex, background", "Age, lineage", "Age, sex", "Sex, kingroup"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Age, sex"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In traditional societies, work was assigned based on a person's age and gender, with different roles for men, women, and age groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Post-independence economy is not remarkably different from the ______ economy.",
+      "type": "OBJ",
+      "options": ["Colonial", "Pre-colonial", "Independence", "Traditional"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colonial"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "After independence, Nigeria's economy kept many colonial structures, still focusing on exporting raw materials rather than local production."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The mainstay of the traditional Nigerian economy was",
+      "type": "OBJ",
+      "options": ["Trading", "Oil", "Agriculture", "Production"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agriculture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Before oil was discovered, most Nigerians worked in farming, growing crops and raising animals for food and trade."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "All except one is not a marker of a strong, healthy and viable economy",
+      "type": "OBJ",
+      "options": ["High GDP", "Low exchange rate", "Increase in per capita income", "Reduction in inflation rate"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low exchange rate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A low exchange rate usually means the currency is weak, which isn't good for an economy, unlike the other positive indicators listed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The annual GDP and the driver of economic growth as at 2014 were ______ and ______",
+      "type": "OBJ",
+      "options": ["6.2%; oil sector", "6.2%; agriculture", "6.3%; oil sector", "6.3%; non-oil sector"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6.3%; non-oil sector"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In 2014, Nigeria's economy grew by 6.3%, with growth mainly coming from areas like agriculture and services, not just oil."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "______ is the bedrock of any form of contemporary human organization.",
+      "type": "OBJ",
+      "options": ["Polity", "Society", "Economy", "Religion"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Economic systems form the foundation for modern societies as they determine how resources are produced and distributed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Ownership of the means of production in traditional Hausa-Fulani empire was ---",
+      "type": "OBJ",
+      "options": ["Communal", "Feudal", "Individual", "cooperative"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Feudal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Hausa-Fulani empire operated a feudal system where land and resources were controlled by the aristocracy (emirs and nobles)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The British handed over power to the London-groomed",
+      "type": "OBJ",
+      "options": ["pro-imperialists", "Bourgeoisie", "Imperialists", "Capitalists"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pro-imperialists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "At independence, Britain transferred power to Nigerian elites who were educated in and sympathetic to British interests."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "One of these represents 'Flag independence'",
+      "type": "OBJ",
+      "options": ["Economic independence", "Sovereignty", "Political independence", "Foreign control"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Foreign control"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "'Flag independence' refers to having national symbols like a flag while still being economically controlled by foreign powers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "______ assessed Nigerian economy as the first and biggest countries in 2014.",
+      "type": "OBJ",
+      "options": ["IMF", "World Bank", "ADB", "Paris Club"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "World Bank"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The World Bank recognized Nigeria's economy as Africa's largest after a 2014 GDP rebasing exercise."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Nigeria was incorporated into the international capitalist framework through",
+      "type": "OBJ",
+      "options": ["Taxation", "Exchange", "Peasantry", "Production"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Taxation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "British colonialists introduced cash taxes, forcing Nigerians to participate in the money economy and global trade."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Nigeria is dependent on a European political budgetary revenues",
+      "type": "OBJ",
+      "options": ["Production export", "Service export", "Resource export", "Goods import"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resource export"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's government revenue relies heavily on exporting raw resources (especially oil) to European countries."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "A consequence of the liberal nature of the Nigeria market is ______",
+      "type": "OBJ",
+      "options": ["Embracement of agricultural biotechnology for GMO's", "Poverty", "Insecurity", "Privatization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Embracement of agricultural biotechnology for GMO's"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's open market policies have allowed the adoption of GM crops to boost agricultural productivity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Corruption and ______ have further crippled the economy and national development",
+      "type": "OBJ",
+      "options": ["Economic depression", "Over dependence on oil", "Resource control", "Globalization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Over dependence on oil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's failure to diversify its economy from oil revenues, combined with corruption, has hindered sustainable development."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "The imperialistic underdevelopment of Nigeria was instituted during trade with the __",
+      "type": "OBJ",
+      "options": ["America", "France", "Portugal", "West"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "West"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Western powers, particularly Britain, established exploitative trade systems that underdeveloped Nigeria's economy during colonial times."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Africa was partitioned at the Berlin Conference of ______",
+      "type": "OBJ",
+      "options": ["1854", "1855", "1856", "1858"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1854"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Berlin Conference of 1854-1855 (correct year is actually 1884-1885) divided Africa among European colonial powers without African representation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "The focal point of every health care system is to provide --- for the prevention of diseases as well as to treat ill person suffering from HIV/AIDS and Ebola virus",
+      "type": "OBJ",
+      "options": ["Information", "directive", "Health services", "Complementary medicine"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Health services"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Healthcare systems primarily exist to deliver medical services for both disease prevention and treatment of illnesses."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Health care Delivery system (H C D S) can be described as all the formal and non-formal activities which in the provision of health services to ______",
+      "type": "OBJ",
+      "options": ["A patient", "Mothers", "Children", "A Population"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A Population"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Healthcare delivery systems aim to serve entire populations, not just specific groups or individuals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "The definition of H C D S is ______ where it covers all health care practices and services that serve the public health.",
+      "type": "OBJ",
+      "options": ["Fragmented", "Holistic", "Proper", "Good"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Holistic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Healthcare delivery systems take a comprehensive approach, encompassing all aspects of medical services for community health."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The H C D S is classified into orthodox health care, indigenous health care and ______",
+      "type": "OBJ",
+      "options": ["Traditional health care", "Primary health care (PHC)", "western health care", "Complementary health care"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complementary health care"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Modern healthcare systems include conventional medicine, traditional practices, and complementary therapies like acupuncture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "The orthodox health care delivery system (O H C D S) delivers health services to people through its ______ components in Nigeria.",
+      "type": "OBJ",
+      "options": ["Two", "Four", "Three", "Western and indigenous medicine"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Three"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's orthodox healthcare operates through primary, secondary, and tertiary levels of care."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "The O H C D S has a ______ as a team leader.",
+      "type": "OBJ",
+      "options": ["Health professional", "Pharmacy", "Doctor", "Nurse"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Doctor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In orthodox medical settings, physicians typically lead healthcare teams due to their diagnostic and treatment authority."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Tertiary Health care which is at the ______ of the national health system consists of highly specialized services in Nigeria.",
+      "type": "OBJ",
+      "options": ["Level", "Management", "Good", "Apex"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Apex"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Tertiary healthcare represents the highest level of medical care, providing specialized treatments at teaching hospitals and national medical centers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Lucas and Gilles (2003) see primary health care in Nigeria as a ______ health care that is community-based",
+      "type": "OBJ",
+      "options": ["proper", "good", "unique", "defined"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "unique"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Scholars recognize Nigeria's PHC system as distinctive because it adapts global principles to local community needs and contexts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "The PHC bring health care as close as possible where they ______ live and work.",
+      "type": "OBJ",
+      "options": ["Patients", "Recovered patients", "Workers", "People"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "People"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Primary Health Care aims to make basic medical services accessible to all community members in their everyday environments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The indigenous medicine, in the following words as ______ of the prevention and care of diseases in Nigeria.",
+      "type": "OBJ",
+      "options": ["Traditional art or culture", "Traditional art or science", "Traditional art and culture", "Cultural ways"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional art or science"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional medicine combines empirical knowledge (science) and cultural healing practices (art) for disease management."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "A herbalist is a man on ______ of plants.",
+      "type": "OBJ",
+      "options": ["woman", "worker", "professional", "the elder"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "woman"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The question seems to have a typo ('man on woman'). It likely means a herbalist is an expert (man or woman) in medicinal plant knowledge."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "The bone setters use locally woven splint to help properly ______ simple, compound and complex fractured bones for patients' quick recuperation",
+      "type": "OBJ",
+      "options": ["Put", "Care", "Align", "Splint"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Align"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional bone setters focus on correctly positioning broken bones using splints to enable proper healing."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "A herbalist uses the following except ______ in treating patients.",
+      "type": "OBJ",
+      "options": ["Leaves", "Banks", "Roots", "Mud leaves"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mud leaves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Herbalists typically use plant parts like leaves, roots, and bark ('banks' likely means bark), but 'mud leaves' isn't a standard herbal remedy component."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Acupressure is using needles to locate the ______",
+      "type": "OBJ",
+      "options": ["Acu --- area", "Acu --- body", "Acu --- nerves", "Acu --- point"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acu --- point"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acupressure involves applying pressure to specific points (acu-points) along the body's meridians to relieve pain or treat illness."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Acupuncture is using needles to locate the ______, so that pain messages can be halted from reaching the brain of the sick.",
+      "type": "OBJ",
+      "options": ["Brain", "Body", "Meridian", "Brain messages"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Meridian"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acupuncture targets specific points along energy pathways called meridians to block pain signals and restore energy flow."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Alexander technique is using correct posture so that the body is able to function naturally and with the minimum amount of ______ effort.",
+      "type": "OBJ",
+      "options": ["Body", "Strength", "Muscular", "Movement"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Muscular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This method teaches efficient body movement by reducing unnecessary muscle tension and improving posture coordination."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "AIDS may mean group of signs and symptoms resulting from an acquired virus that reduces or makes the body immunity inactive and fluidifying this process the patient to ______ that may lead to his or her death.",
+      "type": "OBJ",
+      "options": ["Diseases", "Diseases and illnesses", "Opportunistic infections", "Sore"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opportunistic infections"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "HIV/AIDS weakens the immune system, making patients vulnerable to infections that wouldn't normally cause serious illness in healthy people."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "The first HIV/AIDS incident in Nigeria was in the ______ and this led to serious threats to Nigerians.",
+      "type": "OBJ",
+      "options": ["1970s", "1980s", "1990s", "2000s"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1980s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's first AIDS case was reported in 1986, marking the beginning of a major public health challenge in the country."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Ebola virus first appeared in ______ in simultaneous outbreaks in Africa.",
+      "type": "OBJ",
+      "options": ["1940", "1966", "1976", "1975"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1976"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ebola virus was first identified in 1976 during outbreaks in what is now South Sudan and the Democratic Republic of Congo."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "The simultaneous outbreaks were in ______ and ______.",
+      "type": "OBJ",
+      "options": [
+        "Nkata, in Sudan and Yamtutu in Democratic Republic (DR) of Congo",
+        "Akata, in Sudan and Yama in DR of Congo",
+        "Nazra in Sudan and Yalele in DR of Congo",
+        "Nazra in Sudan and Yambuku in Dr Congo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nazra in Sudan and Yambuku in Dr Congo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The 1976 Ebola outbreaks occurred simultaneously in Nazra, South Sudan and Yambuku, Democratic Republic of Congo (near the Ebola River, from which the virus got its name)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "For the treatment of HIV/AIDS, anti-retroviral drugs (ARVDs) have been found to be useful ______ to the lives of the infected persons",
+      "type": "OBJ",
+      "options": ["treat", "care", "secure", "prolong"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "prolong"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "ARVDs don't cure HIV/AIDS but significantly extend patients' lifespans by suppressing viral replication."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "ARVDs reduce the viral loads of HIV in patients to ______",
+      "type": "OBJ",
+      "options": ["5%", "10%", "0.01%", "Zero level"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zero level"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Effective ARV therapy can reduce viral load to undetectable levels, though the virus remains dormant in cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "DNA vaccines are some of the vaccines used in the treatment of",
+      "type": "OBJ",
+      "options": ["HIV/AIDS", "Lassa fever", "HIN/AIDS and cancer", "Ebola virus"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ebola virus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Experimental DNA vaccines have shown promise against Ebola, though research continues for other diseases listed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Ebola virus may lead to the infection of the practitioner and those in the ______ family",
+      "type": "OBJ",
+      "options": ["community", "workplace", "immediate environment"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "immediate environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ebola spreads through direct contact, putting caregivers and close contacts at highest risk."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Homeopathy in particular has also 3 routes and its known to care many diseases that 24/61 are otherwise labeled as ______ by medical medium",
+      "type": "OBJ",
+      "options": ["Curable", "Incurable", "Manageable", "Preventable"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Incurable"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homeopathy claims to treat conditions conventional medicine considers untreatable, though scientific evidence is limited."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "The three environmental regions of the eastern and southern cultural zones include all of the following EXCEPT ______",
+      "type": "OBJ",
+      "options": ["Coastal wetlands", "Savannah", "Tropical forest", "Coastal hotland", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coastal hotland"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "'Coastal hotland' isn't a standard geographical classification, unlike the other recognized ecological zones listed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "The phenomenon of judging one's culture as superior to another culture is called ______",
+      "type": "OBJ",
+      "options": ["cultural subjectivism", "cultural relativism", "ethnicity", "ethnocentrism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ethnocentrism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ethnocentrism describes evaluating other cultures through the lens of one's own cultural standards."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Cultural zones are ______ areas which are occupied by individuals or groups who share common cultural traits.",
+      "type": "OBJ",
+      "options": ["Historical", "Agricultural", "Religious", "Geographical"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geographical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural zones are defined by physical regions where inhabitants share similar cultural characteristics, not just by history, occupation, or religion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "The eastern cultural zone consists of ______ states",
+      "type": "OBJ",
+      "options": ["four", "six", "eight", "All of the above", "none of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Different sources may classify the eastern zone differently - sometimes as 4 core Igbo states, sometimes including 6-8 neighboring states with cultural ties."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "All except one of the towns below is a major city in the eastern of Harbour",
+      "type": "OBJ",
+      "options": ["Owerri", "Enugu", "Port Harcourt", "Onitsha", "Umuahia"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Port Harcourt"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While Port Harcourt is an important southern city, it's in Rivers State (South-South zone) rather than the core eastern cultural zone like the other Igbo cities listed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "The eastern cultural zone is",
+      "type": "OBJ",
+      "options": [
+        "Homogenous in History but not in culture and language",
+        "Homogenous in language but not in culture",
+        "Homogenous in culture but not in history",
+        "Homogenous in language but not in history",
+        "Homogenous in language, culture and history"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homogenous in language, culture and history"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The eastern zone (predominantly Igbo) shares strong linguistic, cultural, and historical commonalities despite some local variations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "All except one of the statements below is that of the southern cultural zone.",
+      "type": "OBJ",
+      "options": [
+        "The cultural heritage of the southern zone is similar but not homogenous in Origin and history",
+        "The six states are located at the Point where the River Niger joins the Atlantic Ocean via the Gulf of Guinea",
+        "The zone is a source of the economic mainstay of the Nigerian economy.",
+        "Violence and youth restivances are absent in this zone",
+        "The area has a great potential for tourism and agriculture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Violence and youth restivances are absent in this zone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The southern zone has experienced conflicts (e.g., Niger Delta militancy), making this statement inaccurate compared to the other correct descriptions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Gender discrimination is prevalent in the eastern and southern cultural zones of Nigerian because",
+      "type": "OBJ",
+      "options": [
+        "Division of labour by gender",
+        "Improvement in women education",
+        "Domination of men over women",
+        "Nigeria is a signatory to the international convention on equality for women."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Domination of men over women"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Patriarchal traditions in these zones often prioritize male authority in family and community structures, despite educational advances or international commitments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Is it true that symbols are learned through skill education?",
+      "type": "OBJ",
+      "options": ["Yes", "No", "Not applicable"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Symbols and their meanings are acquired through formal and informal education as part of cultural learning."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Man is a cultural animal but ______ are now",
+      "type": "OBJ",
+      "options": ["Levi-Straus", "Yawning", "Kroebar", "Animals"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Animals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The question suggests that while humans are cultural beings, animals are now being recognized as having some cultural behaviors too."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Energy theory of culture, called",
+      "type": "OBJ",
+      "options": ["Determiological determination", "Development determinism", "Pragmatic", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Determiological determination"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This appears to reference Leslie White's theory that cultural evolution is determined by energy capture and utilization (though the term may be misspelled)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Biological theory at evolution was developed by",
+      "type": "OBJ",
+      "options": ["Charles Davidism", "Sanderson", "Charles Dowellin", "Charles Darwin"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Charles Darwin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Charles Darwin established the theory of biological evolution through natural selection in the 19th century."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Cultural history is based on core",
+      "type": "OBJ",
+      "options": ["Norms and history", "Tradition and culture", "Values and tradition", "Tradition and folklores"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Values and tradition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural history fundamentally examines how a society's core values and traditions shape its development over time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "A common knowledge and point to note is that economic growth can occur",
+      "type": "OBJ",
+      "options": ["Without development", "Without manufacturing", "With development", "With high GDP"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Without development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "GDP growth doesn't necessarily lead to human development if benefits aren't widely distributed across society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "The ultimate causes of all social change and political revolutions are to be taught",
+      "type": "OBJ",
+      "options": ["In the minds of men", "In the increasing insight", "In truth and justice", "In charge in mode of production"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In charge in mode of production"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marxist theory holds that changes in economic production systems fundamentally drive social and political transformations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "In traditional Nigerian economy Palm products represented",
+      "type": "OBJ",
+      "options": ["A fixed method of the economy", "A mixed aspect of the economy", "A vital aspect of the economy", "Note of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A vital aspect of the economy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Palm oil and kernels were essential trade goods and subsistence products in pre-colonial and colonial Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "The ecology and environment necessitated the fishing culture around the",
+      "type": "OBJ",
+      "options": ["None Delta region", "Non-southern region", "Eastern region", "Delta region"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Delta region"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Niger Delta's extensive waterways naturally supported fishing as a primary economic activity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "Production of agriculture in traditional Nigerian economy was organized along",
+      "type": "OBJ",
+      "options": ["Delta region", "Riverian region", "Lineage patterns", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lineage patterns"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Farming was typically managed through family and kinship structures that controlled land use and labor."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "The imperialistic undervelopment of Nigeria was instituted during trade with the ______",
+      "type": "OBJ",
+      "options": ["East", "South", "North", "West"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "West"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Western European powers (particularly Britain) established unequal trade relations that hindered Nigeria's autonomous development."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "For African had threatened the peace in Europe in the 17 thecentry",
+      "type": "OBJ",
+      "options": ["Partition", "Niger Delta Militants", "Amalgamation", "Scramble"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Scramble"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The 'Scramble for Africa' (late 19th century) created tensions between European powers competing for colonial territories."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "Question": {
+      "content": "In traditional Nigerian societies politics is synonymous with",
+      "type": "OBJ",
+      "options": [
+        "Culture and anthropology",
+        "Culture and society",
+        "Welfarism and cosmology",
+        "Ethnics and religion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethnics and religion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional governance often intertwined ethnic identity and spiritual beliefs with political authority."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "Question": {
+      "content": "The egalitarian democracy of the communal mode because replaced with",
+      "type": "OBJ",
+      "options": [
+        "Military dictatorship",
+        "Civilian democracy",
+        "Military democracies",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Military democracies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Post-independence Nigeria saw communal systems give way to military-influenced governance structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "Question": {
+      "content": "Good character presupposed stability and consistency in",
+      "type": "OBJ",
+      "options": [
+        "Aptitude of man",
+        "Aptitude of youth",
+        "Behaviour of man",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Behaviour of man"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Moral character was judged by observable, reliable patterns of ethical conduct in community life."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "Question": {
+      "content": "The Nok culture is said to have flourished between",
+      "type": "OBJ",
+      "options": [
+        "900 or 500 AD",
+        "200 or 500 BC",
+        "900 or 500 BC",
+        "500 or 200 AD"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "900 or 500 BC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This ancient civilization produced famous terracotta sculptures during this Iron Age period."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "Question": {
+      "content": "The colony of Lagos was ceded to its British as a crown colony in",
+      "type": "OBJ",
+      "options": [
+        "1861",
+        "1862",
+        "1826",
+        "1863"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1862"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Though the Lagos Treaty was signed in 1861, formal crown colony status was declared in 1862."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "Question": {
+      "content": "In the emirate an Emir was considered as the",
+      "type": "OBJ",
+      "options": [
+        "Spiritual ruler only",
+        "Administrative ruler only",
+        "Emirate ruler",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Emirs held combined religious, political, and judicial authority in a fused governance system."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "Question": {
+      "content": "Tourism has been seen as one of the fastest growing in the world",
+      "type": "OBJ",
+      "options": [
+        "Travelling activities",
+        "Exporting activities",
+        "Attracting activities",
+        "Economic activities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic activities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Globally, tourism generates significant revenue and employment, outpacing many traditional industries."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "Question": {
+      "content": "Festivals of traditional societies in Nigeria are based on ______",
+      "type": "OBJ",
+      "options": [
+        "African traditional region",
+        "Nigerian traditional religious",
+        "Historical experiences",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "African traditional region"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Most festivals originate from indigenous belief systems and seasonal cycles tied to local environments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "Question": {
+      "content": "Major carnivals and tourism destination in major cities in Nigeria are",
+      "type": "OBJ",
+      "options": [
+        "Kalagbari carnival",
+        "Durbal carnival",
+        "Anambra carnival",
+        "Carniriv carnival"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carniriv carnival"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Rivers State Carnival (CARNIRIV) is among Nigeria's most prominent annual cultural tourism events."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "Question": {
+      "content": "Which of the social inequality paradigms believes in equilibrium, stability and order if society must exist:",
+      "type": "OBJ",
+      "options": [
+        "Conflict theory",
+        "Functionalist theory",
+        "Symbolism theory",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functionalist theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functionalism views social inequality as necessary for maintaining societal stability and ensuring all roles in society are filled."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "Question": {
+      "content": "Karl Marx believed that at the root of social inequality is the phenomenon of",
+      "type": "OBJ",
+      "options": [
+        "Conflict",
+        "Materialism",
+        "Classes",
+        "Communist manifests"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Classes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx's theory centered on class struggle between owners of production (bourgeoisie) and workers (proletariat) as the source of inequality."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "Question": {
+      "content": "Initially the term inequality was conceived to be synonymous with",
+      "type": "OBJ",
+      "options": [
+        "Social mobility",
+        "Social hierarchy",
+        "Stratification",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stratification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Early sociological studies treated inequality as synonymous with the layered structure (stratification) of society into different groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "Question": {
+      "content": "Social inequality in Marx's view is clearly rooted in the in society",
+      "type": "OBJ",
+      "options": [
+        "Marxist dialectics",
+        "Social stratifications",
+        "Social hierarchy",
+        "Mode of production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mode of production"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx argued that economic systems (feudalism, capitalism) determine social relations and create inherent inequalities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "Question": {
+      "content": "The Igbo traditional society was not",
+      "type": "OBJ",
+      "options": [
+        "Class based",
+        "Traditional based",
+        "Cultural based",
+        "Historical based"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Class based"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial Igbo society was largely egalitarian without rigid class structures, though it had other traditional/cultural hierarchies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "Question": {
+      "content": "The central point of Unity in Igbo politics is ______",
+      "type": "OBJ",
+      "options": [
+        "Socio-economy line",
+        "Blood line",
+        "Ancestral descant",
+        "All the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ancestral descant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Igbo political organization traditionally emphasized kinship ties and shared lineage through ancestral connections."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "Question": {
+      "content": "When a population migrates to a subordinate position conflict occurs in the ______",
+      "type": "OBJ",
+      "options": [
+        "Later stage",
+        "Ethnic group",
+        "Early stage",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Early stage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Initial contact and settlement phases often produce tensions as groups establish new social hierarchies and compete for resources."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "Question": {
+      "content": "Effective discrimination in relegates any minority group to inferior positions in the class struggle",
+      "type": "OBJ",
+      "options": [
+        "Social inequality",
+        "Wealthiness",
+        "Power",
+        "Education"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Education"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Unequal access to quality education perpetuates class divisions by limiting upward mobility for disadvantaged groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "Question": {
+      "content": "______ is one of the consequences of prejudice",
+      "type": "OBJ",
+      "options": [
+        "Group solidarity",
+        "Immorality",
+        "Racial hatred",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Group solidarity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Prejudice often strengthens in-group cohesion as marginalized communities bond together against discrimination."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "Question": {
+      "content": "______ of all members of the minority group does not take place at the same time",
+      "type": "OBJ",
+      "options": [
+        "Grouping",
+        "Majority",
+        "Acculturation",
+        "Integration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acculturation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural adaptation occurs gradually and unevenly within minority groups as individuals adopt host society norms at different rates."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "Question": {
+      "content": "Domination of the majority groups led to the institution of ______",
+      "type": "OBJ",
+      "options": [
+        "Willink Commission",
+        "Dapper Brive Commission",
+        "Pepple Commission",
+        "Peterson Commission"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Willink Commission"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The 1957 Willink Commission investigated minority fears in Nigeria during decolonization, particularly in the Niger Delta region."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "Question": {
+      "content": "Agitation for a Benin Delta Region began in the western region as early as ______",
+      "type": "OBJ",
+      "options": [
+        "1949",
+        "1950",
+        "1960",
+        "1951"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1950"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Early demands for a Niger Delta state emerged during constitutional conferences preceding independence."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "Question": {
+      "content": "In Nigeria and elsewhere, rural capital migration provided the basis for",
+      "type": "OBJ",
+      "options": [
+        "Inter tribal war",
+        "Inter-economic activities",
+        "Inter-ethic",
+        "Inter-group contact"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inter-group contact"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Urban migration created new social interactions between ethnic groups that previously had limited contact."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "Question": {
+      "content": "Inequalities exist in",
+      "type": "OBJ",
+      "options": [
+        "All kind of society",
+        "U.S.A.",
+        "Britain",
+        "Social union"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All kind of society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Social stratification is a universal phenomenon, though its forms vary across different societies and historical periods."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "Question": {
+      "content": "TBA means",
+      "type": "OBJ",
+      "options": [
+        "Trade by Association",
+        "Tradition Birthright",
+        "Traditional Birth Association",
+        "Traditional Birth Attendant"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional Birth Attendant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "TBAs are community-based caregivers who assist with deliveries using indigenous knowledge, especially in rural areas."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "Question": {
+      "content": "Dual citizenship can result from",
+      "type": "OBJ",
+      "options": [
+        "Internal law",
+        "Culturalization",
+        "Citizen rights",
+        "Naturalization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Naturalization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acquiring citizenship in another country through naturalization while retaining one's original citizenship creates dual citizenship status."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "Question": {
+      "content": "Important civil rights given to citizens in democratic countries are embodied in --",
+      "type": "OBJ",
+      "options": [
+        "Magna Carta of 1215",
+        "Petition of rights",
+        "Bill of rights of 1689",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These foundational documents collectively established principles of civil liberties that influenced modern democratic constitutions worldwide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "Question": {
+      "content": "Nigeria is said to have the following number of ethnic and linguistic groups:",
+      "type": "OBJ",
+      "options": [
+        "About 230",
+        "240",
+        "About 245",
+        "350",
+        "Hausa, Yoruba and Ibo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "350"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's extraordinary cultural diversity includes approximately 350 distinct ethnic groups, though the three largest (Hausa, Yoruba, Igbo) dominate politically."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "Question": {
+      "content": "Ecology is the study of",
+      "type": "OBJ",
+      "options": [
+        "environment",
+        "Atmosphere",
+        "Planet",
+        "Plants and animals",
+        "Cultural institution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plants and animals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ecology specifically examines relationships between organisms and their biological environments, though it's sometimes broadly applied to environmental studies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "Question": {
+      "content": "Culture region is divided into",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural geographers typically categorize regions into formal, functional, and perceptual/vernacular types based on different defining characteristics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "Question": {
+      "content": "______ dictates production in traditional Nigerian farming system",
+      "type": "OBJ",
+      "options": [
+        "Exchange",
+        "Community need",
+        "Family needs",
+        "Primordial sentiment",
+        "Market forces"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Family needs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Subsistence agriculture focused on meeting household food requirements rather than commercial production characterized traditional farming practices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 101",
+    "Question": {
+      "content": "Which of this is not part of Egwurigwe's classification of culture regions",
+      "type": "OBJ",
+      "options": [
+        "Formal",
+        "Functional",
+        "Effective",
+        "Perceptual",
+        "Conceptual"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Egwurigwe's cultural region typology includes formal, functional, and perceptual regions, but not 'effective' as a classification category."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 102",
+    "Question": {
+      "content": "Relations between farmers and herdsmen in Northern Nigerian can be described as",
+      "type": "OBJ",
+      "options": [
+        "Sedentary",
+        "Systemic",
+        "Transhumance",
+        "all of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transhumance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The seasonal movement of herders with their livestock between fixed grazing areas (transhumance) defines farmer-herder interactions in Northern Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 103",
+    "Question": {
+      "content": "The indigenous Hausa-Fulani type of administration is based on",
+      "type": "OBJ",
+      "options": [
+        "Village system",
+        "The sultanate system",
+        "The lineage system",
+        "C and A",
+        "A and B"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The sultanate system"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The centralized emirate system under Islamic leadership characterizes traditional Hausa-Fulani governance structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 104",
+    "Question": {
+      "content": "How many distinct cultural areas have been delineated in the cultural map of Nigerian?",
+      "type": "OBJ",
+      "options": [
+        "20",
+        "10",
+        "40",
+        "15",
+        "35"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria's cultural diversity is commonly mapped into 10 major zones reflecting ethnic, linguistic and historical groupings."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 105",
+    "Question": {
+      "content": "The human environment is sub divided into the following",
+      "type": "OBJ",
+      "options": [
+        "Physical and cultural",
+        "Culture and state",
+        "Atmosphere and rock",
+        "Sand and clay",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physical and cultural"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Human geography distinguishes between natural/physical environments and human-created cultural landscapes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 106",
+    "Question": {
+      "content": "Tsav is a witchcraft station for the end of",
+      "type": "OBJ",
+      "options": [
+        "Evil doer",
+        "Ritual killers",
+        "Tiv",
+        "Witchcrafts",
+        "Members"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Members"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Among the Tiv people, Tsav refers to mystical powers believed to be possessed by certain initiated members of the society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 107",
+    "Question": {
+      "content": "Because the nitty-gritty of cultural practices differs among humans, culture is",
+      "type": "OBJ",
+      "options": [
+        "Adaptive",
+        "Shared",
+        "Particularistic",
+        "Learned",
+        "Universalistic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Particularistic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural particularism emphasizes the unique configurations of each society's customs and worldviews."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 108",
+    "Question": {
+      "content": "Closely related to culture area is",
+      "type": "OBJ",
+      "options": [
+        "Formal culture",
+        "Culture region",
+        "Environment",
+        "Education",
+        "Ethnocentrism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Culture region"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Both concepts describe geographic spaces where particular cultural traits dominate and distinguish the area from others."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 109",
+    "Question": {
+      "content": "The physical environment consist of the following realms",
+      "type": "OBJ",
+      "options": [
+        "Hydrosphere, atmosphere and lithosphere",
+        "Abiotic and biotic",
+        "Communal conflicts",
+        "Ecology",
+        "political community"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrosphere, atmosphere and lithosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These three spheres (water, air, and land) comprise the fundamental components of Earth's physical environment."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 110",
+    "Question": {
+      "content": "OnigeOtite in his field work on cultural areas identified ethnic groups",
+      "type": "OBJ",
+      "options": [
+        "About 374",
+        "774",
+        "About 250",
+        "About 35",
+        "About 500"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "About 374"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Scholar OnigeOtite's research documented approximately 374 distinct ethnic groups in Nigeria's cultural landscape."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 111",
+    "Question": {
+      "content": "Perceptual culture region is a mental view of the people",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Both",
+        "All",
+        "None"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Perceptual regions are defined by people's subjective perceptions and cultural identities rather than objective boundaries."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 112",
+    "Question": {
+      "content": "______ applied historical materialism in accounting for the origin of the state",
+      "type": "OBJ",
+      "options": [
+        "Socrates",
+        "Max Weber",
+        "Karl Marx",
+        "Donald Trump",
+        "Emile Durkheim"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Karl Marx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx's historical materialism explains state formation as emerging from class conflicts and economic relationships."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 113",
+    "Question": {
+      "content": "Which of the following states authority ethnic group in Nigeria",
+      "type": "OBJ",
+      "options": [
+        "Ikwerre",
+        "Efik",
+        "Ogba",
+        "Hausa",
+        "Ogoni"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hausa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Hausa ethnic group dominates political structures in Northern Nigeria through the emirate system."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 114",
+    "Question": {
+      "content": "Members of the Ekpe society who are said to act of messengers of the ancestors are called",
+      "type": "OBJ",
+      "options": [
+        "Egbo",
+        "Ekan",
+        "Amama",
+        "Ikan",
+        "Members"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ikan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In the Ekpe secret society (prevalent in southeastern Nigeria), Ikan members serve as intermediaries between the living and ancestral spirits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 115",
+    "Question": {
+      "content": "Polyandrous family contrast with polygamous family in that in the latter",
+      "type": "OBJ",
+      "options": [
+        "One man is married to one wife",
+        "One woman is married to one man",
+        "One woman is married to at least two men at the same time",
+        "One man is married to at least more than one wife at the same time",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "One man is married to at least more than one wife at the same time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polygyny (one husband, multiple wives) is the predominant form of polygamy in Nigeria, contrasting with rare polyandry (one wife, multiple husbands)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 116",
+    "Question": {
+      "content": "Ethnic minorities are different from the majority groups because of",
+      "type": "OBJ",
+      "options": [
+        "Religion",
+        "Cultural tradition",
+        "Lifestyle",
+        "Language",
+        "Ancestry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural tradition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While all options may differentiate groups, cultural traditions (customs, values, practices) fundamentally distinguish ethnic minorities from majorities in Nigeria's diverse society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 117",
+    "Question": {
+      "content": "The art works of traditional Nigerian communities suggest that they are",
+      "type": "OBJ",
+      "options": [
+        "Magico-religious",
+        "Scientists",
+        "Disoriented artists",
+        "Voodoo masters",
+        "Preachers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Magico-religious"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional Nigerian art primarily served spiritual purposes - as ritual objects, ancestral representations, and mediators between physical and supernatural realms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 118",
+    "Question": {
+      "content": "Colonial education proved an effective means of acculturation of",
+      "type": "OBJ",
+      "options": [
+        "Culture",
+        "Environment",
+        "People",
+        "Subject",
+        "Subject people"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Subject people"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Colonial schools systematically assimilated colonized populations into European value systems and administrative frameworks."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 119",
+    "Question": {
+      "content": "Which of these commodities was produced in precolonial Nigerian societies",
+      "type": "OBJ",
+      "options": [
+        "Gold",
+        "Cement",
+        "Petroleum",
+        "Steel",
+        "Platinum"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gold"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gold mining and smithing existed in precolonial kingdoms like the Yoruba and Benin, unlike modern industrial materials listed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 120",
+    "Question": {
+      "content": "The Negroes in South Africa can be classified as what group to white South Africans",
+      "type": "OBJ",
+      "options": [
+        "Subordinate group",
+        "Super ordinate group",
+        "Migrant group",
+        "Ethnic pluralism",
+        "Migrant super ordinate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Subordinate group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Under apartheid and colonial systems, Black South Africans were systematically subordinated politically and economically to the white minority."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 121",
+    "Question": {
+      "content": "In levirate marriage, the biological father",
+      "type": "OBJ",
+      "options": [
+        "Owns the children of the marriage",
+        "Children belong to the wife only",
+        "Children belong to the deceased kinsman",
+        "Children belong to the social fathers",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Children belong to the deceased kinsman"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In this traditional practice, children produced by the widow's new union with her deceased husband's kinsman are considered offspring of the original husband's lineage."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 122",
+    "Question": {
+      "content": "The most important thing in Transhumance is that it is ______",
+      "type": "OBJ",
+      "options": [
+        "Seasonal",
+        "Horizontal and vertical",
+        "Annual",
+        "Search for food",
+        "Sedentary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Seasonal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Transhumance is fundamentally defined by cyclical movement between wet/dry season pastures, timed with climatic changes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 123",
+    "Question": {
+      "content": "The Ekpe—men are ranked in ______ for promotion",
+      "type": "OBJ",
+      "options": [
+        "5-8 grades",
+        "7-10 grades",
+        "5-6 grades",
+        "7-9 grades",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7-9 grades"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ekpe secret society has a hierarchical structure with 7-9 initiation grades that members progress through, each with distinct responsibilities and knowledge."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 124",
+    "Question": {
+      "content": "The social importance attached to the highest rank of Ekpe cult is called",
+      "type": "OBJ",
+      "options": [
+        "Ekpe-logbo",
+        "Egbo",
+        "Ekong",
+        "Uran",
+        "Amama"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amama"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Amama refers to the prestigious highest rank in the Ekpe society, denoting spiritual authority and political influence in traditional Efik/Ibibio societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 125",
+    "Question": {
+      "content": "The view that the state guides individuals to realize the highest form of freedom is associated with",
+      "type": "OBJ",
+      "options": [
+        "Frederich Engels",
+        "Angel Michael",
+        "F.W. Hegel",
+        "Karl Max",
+        "Max Weber"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "F.W. Hegel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hegel's political philosophy posited that the rational state enables citizens to achieve true freedom through lawful participation in communal life."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 126",
+    "Question": {
+      "content": "Sport the most appropriate statement from the following",
+      "type": "OBJ",
+      "options": [
+        "Human being revolves in culture",
+        "People live in thatch houses",
+        "Social life revolves around culture",
+        "all of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social life revolves around culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement best captures the anthropological understanding that cultural norms and practices fundamentally organize human social interactions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 127",
+    "Question": {
+      "content": "Man's art, music, poetry have their roots in his",
+      "type": "OBJ",
+      "options": [
+        "Sub-culture",
+        "Material culture",
+        "Non material culture",
+        "Cultural diversity",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non material culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Creative expressions like art and music emerge from intangible cultural aspects - beliefs, values, and symbolic systems rather than physical objects."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 128",
+    "Question": {
+      "content": "The analysis of land tenure focuses on the relationship based on",
+      "type": "OBJ",
+      "options": [
+        "Family",
+        "Community",
+        "Blood ties",
+        "Farm land",
+        "Men"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Farm land"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Land tenure systems primarily regulate rights to agricultural land, determining who can use what land for how long and under what conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 129",
+    "Question": {
+      "content": "The cloth industry evolved into a sophisticated textile industry in West Africa by what year",
+      "type": "OBJ",
+      "options": [
+        "A.D 500",
+        "B.C 70",
+        "A.D 2000",
+        "A.D 1000",
+        "B.C. 2000"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A.D 500"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Archaeological evidence shows advanced textile production using indigenous techniques like strip-weaving existed in West Africa by the 6th century AD."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 130",
+    "Question": {
+      "content": "A form of discrimination arising from the normal functioning of society refers to",
+      "type": "OBJ",
+      "options": [
+        "Institutional discrimination",
+        "Group interaction",
+        "Integration",
+        "Ethnic pluralism",
+        "Attitudinal discrimination"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Institutional discrimination"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This describes systemic bias embedded in laws, policies, or institutional practices rather than individual prejudices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 131",
+    "Question": {
+      "content": "Which of these health problems does traditional medicine in Nigeria compete favourably with orthodox medicine",
+      "type": "OBJ",
+      "options": [
+        "Hiv/AiDs",
+        "Surgery",
+        "Orthopedics",
+        "Malaria",
+        "Cancer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Orthopedics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional bone setters remain widely used for fractures and joint problems due to their effective manual therapies and herbal treatments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 132",
+    "Question": {
+      "content": "Abiotic components consist of one of the following elements",
+      "type": "OBJ",
+      "options": [
+        "Lithosphere",
+        "Earth",
+        "Water",
+        "Air",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lithosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The lithosphere (Earth's crust) is a fundamental abiotic component, while the other options mix biotic/abiotic elements when considered separately."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 133",
+    "Question": {
+      "content": "Acculturation refers to acquiring",
+      "type": "OBJ",
+      "options": [
+        "Superior culture",
+        "Everybody culture",
+        "Good culture only",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acculturation involves adopting cultural traits from another group without value judgments about superiority or quality."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 134",
+    "Question": {
+      "content": "The Mbatsav is the highest traditional political council found among the",
+      "type": "OBJ",
+      "options": [
+        "Ogoni",
+        "Idoma",
+        "Tiv",
+        "Nupe",
+        "Benin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tiv"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Mbatsav serves as the supreme judicial and political body in Tiv society, combining spiritual authority with dispute resolution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 135",
+    "Question": {
+      "content": "The belief that sick persons are possessed by demons is known as",
+      "type": "OBJ",
+      "options": [
+        "Evil attack",
+        "Demonology",
+        "Spiritualism",
+        "Marine spirit",
+        "Deliverance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Demonology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Demonology refers to the systematic study of demons or the belief that illnesses can be caused by demonic possession."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 136",
+    "Question": {
+      "content": "Traditional political system of Northern Nigeria could be described as",
+      "type": "OBJ",
+      "options": [
+        "Theocratic",
+        "Secularistic",
+        "Democratic",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The emirate system was a unique fusion of Islamic governance and traditional authority that doesn't fit modern political classifications."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 137",
+    "Question": {
+      "content": "Cultural relativism supports",
+      "type": "OBJ",
+      "options": [
+        "Ethnocentrism",
+        "Anti-religion",
+        "Culture shock",
+        "Inhuman practices"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inhuman practices"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While cultural relativism promotes understanding different cultures on their own terms, critics argue it can justify harmful traditional practices when taken to extremes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 138",
+    "Question": {
+      "content": "Which of these is the major reason for the study of the courses Nigerian Peoples and Culture",
+      "type": "OBJ",
+      "options": [
+        "To promote tribal hegemony",
+        "To promote social exclusion",
+        "To promote unity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To promote unity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Studying Nigeria's diverse cultures aims to foster national cohesion by promoting mutual understanding among ethnic groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 139",
+    "Question": {
+      "content": "Culture is not an important factor in disease and illness determination",
+      "type": "OBJ",
+      "options": [
+        "Yes",
+        "No",
+        "A and B",
+        "None"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cultural factors significantly influence health perceptions, treatment-seeking behaviors, and even disease susceptibility."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 140",
+    "Question": {
+      "content": "Which is the odd one",
+      "type": "OBJ",
+      "options": [
+        "Language",
+        "Ancestry",
+        "National origin",
+        "Culture",
+        "Prejudice"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prejudice"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Prejudice is a negative attitude/bias, while the others are neutral cultural or biological markers of identity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 141",
+    "Question": {
+      "content": "The form of marriage in which a kinsman takes over the wife of deceased kin is known as",
+      "type": "OBJ",
+      "options": [
+        "Levirate",
+        "Pawn",
+        "Woman-to-woman",
+        "None"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Levirate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Levirate marriage preserves family lineage and provides social security for widows in many traditional African societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 142",
+    "Question": {
+      "content": "Traditional health practices are grouped into any of the following",
+      "type": "OBJ",
+      "options": [
+        "Deities and spiritual causes",
+        "Roots and herbs",
+        "Sorcery and myths",
+        "Natural and supernatural",
+        "All the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Natural and supernatural"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This binary classification encompasses both herbal remedies (natural) and spiritual healing (supernatural) in traditional medicine systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 143",
+    "Question": {
+      "content": "Which is the odd one",
+      "type": "OBJ",
+      "options": [
+        "Language",
+        "Ancestry",
+        "National origin",
+        "Culture",
+        "Prejudice"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prejudice"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This question appears to be a duplicate of Q140, with the same correct answer distinguishing prejudice from objective identity markers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 144",
+    "Question": {
+      "content": "In Yoruba Kingdom, the most senior chiefs gather at",
+      "type": "OBJ",
+      "options": [
+        "King's palace",
+        "Town Hall",
+        "Oba's Palace",
+        "Senior chiefs' Palace"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oba's Palace"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Oba's palace serves as the traditional seat of governance where the king and his council of chiefs deliberate on community matters in Yoruba land."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 145",
+    "Question": {
+      "content": "Which of these forms of marriage is the practice of marrying a wife for a deceased relation in which the woman's children belonged to the deceased husband",
+      "type": "OBJ",
+      "options": [
+        "Sororate",
+        "Gift",
+        "Ghost",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ghost"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ghost marriage refers to the practice where a woman marries symbolically to a deceased man, with any resulting children considered his descendants."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 146",
+    "Question": {
+      "content": "Social stratification means",
+      "type": "OBJ",
+      "options": [
+        "Social progress",
+        "Social deprivation",
+        "Social inequality",
+        "Social equity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social inequality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Social stratification refers to the hierarchical arrangement of individuals into social classes with unequal access to resources and privileges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 147",
+    "Question": {
+      "content": "In centralized societies, social mobility is",
+      "type": "OBJ",
+      "options": [
+        "Accessible",
+        "Fixed",
+        "Flexible",
+        "Rigid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rigid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Highly centralized traditional societies like the Hausa-Fulani emirates typically had strict, inherited social hierarchies with limited mobility."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 148",
+    "Question": {
+      "content": "The NOK culture is said to have flourished between",
+      "type": "OBJ",
+      "options": [
+        "1800-1900",
+        "900-500 BC",
+        "1960-200",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "900-500 BC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Nok civilization, known for its distinctive terracotta sculptures, thrived in central Nigeria during this Iron Age period."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 149",
+    "Question": {
+      "content": "Which of these describes the type of family which consists of a man and some women who are his wives",
+      "type": "OBJ",
+      "options": [
+        "Polygon",
+        "Polygamy",
+        "Bigamy",
+        "Polyandry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polygamy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polygamy (specifically polygyny) refers to the marriage practice where one man has multiple wives, common in many traditional African societies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 150",
+    "Question": {
+      "content": "Minority status exists when one group imposes, upon another",
+      "type": "OBJ",
+      "options": [
+        "Prejudice",
+        "Discrimination",
+        "Stratification",
+        "Power",
+        "Imposition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Power"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Minority-majority relations are fundamentally about power dynamics, where dominant groups control resources and institutions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 151",
+    "Question": {
+      "content": "The etiology of disease can be explored in areas of",
+      "type": "OBJ",
+      "options": [
+        "Science",
+        "Witchcraft",
+        "Socio-culture",
+        "Biology",
+        "Medical disease"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Socio-culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Disease causation is understood differently across cultures, with many African traditions emphasizing social/spiritual factors alongside biological ones."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 152",
+    "Question": {
+      "content": "Rights of passage involves separation, transition and",
+      "type": "OBJ",
+      "options": [
+        "Divination",
+        "Pre-internment",
+        "Rituals",
+        "Re-incarnation",
+        "Re-incorporation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Re-incorporation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Arnold van Gennep's rites of passage theory identifies three phases: separation (from previous status), transition (liminal period), and reincorporation (into society with new status)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 153",
+    "Question": {
+      "content": "The ancient NOK people lived in what part of Nigeria",
+      "type": "OBJ",
+      "options": [
+        "Cross River",
+        "Akwaibom",
+        "Plateau",
+        "Oyo",
+        "Igbo-Ukwu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plateau"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Nok civilization flourished in what is now Plateau State and parts of Kaduna and Nasarawa states in central Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 154",
+    "Question": {
+      "content": "The indigenous system of health care is based on personal",
+      "type": "OBJ",
+      "options": [
+        "Knowledge and strength",
+        "Roots and Herbs",
+        "Experience and observations",
+        "Priest and divination"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Experience and observations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional medical knowledge is typically acquired through apprenticeship and accumulated practical experience rather than formal scientific training."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 155",
+    "Question": {
+      "content": "The second stage in personality development to Freud after child birth is",
+      "type": "OBJ",
+      "options": [
+        "Anal stage",
+        "Phalic stage",
+        "Freudian stage",
+        "Oral"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anal stage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Freud's psychosexual stages progress from oral (0-1 year) to anal (1-3 years), focusing on bowel control as the key developmental task."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 156",
+    "Question": {
+      "content": "Islam is a religion that has no regard for education",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Both"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Islamic tradition strongly emphasizes education, evidenced by historic centers of learning like Timbuktu and the Quran's injunction to 'Read in the name of your Lord.'"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 157",
+    "Question": {
+      "content": "Which of these is a disadvantage of indigenous health care?",
+      "type": "OBJ",
+      "options": [
+        "It cures Hiv/Aids",
+        "It is comprehensive",
+        "It disorganizes wicked spirits",
+        "It disregards bacteria",
+        "It is for deliverance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It disregards bacteria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional medicine often lacks understanding of germ theory, focusing instead on spiritual/symptomatic causes rather than microbial pathogens."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 158",
+    "Question": {
+      "content": "Group solidarity of morale is one of the consequences of",
+      "type": "OBJ",
+      "options": [
+        "Stratification",
+        "Prejudice",
+        "Class",
+        "Bekuef"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prejudice"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Facing external prejudice often strengthens in-group cohesion and collective identity among marginalized communities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 159",
+    "Question": {
+      "content": "The process of acculturation begins with the development of common",
+      "type": "OBJ",
+      "options": [
+        "Goal",
+        "History",
+        "Language",
+        "Culture",
+        "Accent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Language"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Shared language enables basic communication and cultural exchange, forming the foundation for broader acculturation processes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 160",
+    "Question": {
+      "content": "Nigeria is said to have the following number of ethnic and linguistic groups",
+      "type": "OBJ",
+      "options": [
+        "About 20",
+        "About 30",
+        "About 150",
+        "About 25",
+        "About 350"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "About 350"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigeria is recognized as one of the most ethnically diverse countries globally, with approximately 350 distinct ethnic groups, each with its own language or dialect."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 161",
+    "Question": {
+      "content": "The type of family involving the marriage of one woman to more than one husband is known as",
+      "type": "OBJ",
+      "options": [
+        "Pomography",
+        "Polygamy",
+        "Polyandrous",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polyandrous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polyandry (a woman with multiple husbands) is rare in Nigeria but exists in some cultures, contrasting with the more common polygyny (a man with multiple wives)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 162",
+    "Question": {
+      "content": "Lineage land tenure is practiced by the",
+      "type": "OBJ",
+      "options": [
+        "kulabaris",
+        "Jiaws",
+        "Ogonis",
+        "Tivs",
+        "Awards in Nigeria"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ogonis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ogoni people of the Niger Delta maintain a lineage-based land ownership system where land belongs to extended family groups rather than individuals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 163",
+    "Question": {
+      "content": "The religious institution designed to solicit the help of the world of spirits through invocation, sacrifices and dramatic representation of spirits in the masquerade is commonly practiced amongst the",
+      "type": "OBJ",
+      "options": [
+        "Ogonis",
+        "Ikwerres",
+        "Kalabaris",
+        "Igallas",
+        "Igberies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kalabaris"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Kalabari people of the Niger Delta are known for their elaborate water spirit (Owuamapu) masquerades that mediate between physical and spiritual realms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 164",
+    "Question": {
+      "content": "Ekpe is a secret society, originating chiefly among the",
+      "type": "OBJ",
+      "options": [
+        "Noks",
+        "Ekpes",
+        "Effks",
+        "Nupes",
+        "Urhobos"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ekpe society originated with the Efik people (option c appears to be a typo for 'Efiks') before spreading to neighboring Ibibio and Igbo groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 165",
+    "Question": {
+      "content": "Spirits can be classified separately from divinities and ancestors",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Both"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In African traditional cosmology, spirits exist as a distinct category - neither deified ancestors nor supreme divinities, but supernatural beings with specific domains."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 166",
+    "Question": {
+      "content": "Which is the centre of Igbo traditional priesthood",
+      "type": "OBJ",
+      "options": [
+        "Eri",
+        "Ori",
+        "Nri",
+        "Obi",
+        "Ada"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nri"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nri in Anambra State is the spiritual homeland of the Igbo people, where the Eze Nri priest-king traditionally performed sacred rituals for the Igbo nation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 167",
+    "Question": {
+      "content": "Which is the most common totem animal in Rivers State",
+      "type": "OBJ",
+      "options": [
+        "Tortoise",
+        "Vulture",
+        "Pigeon",
+        "Python",
+        "Rabbit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Python"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The python is widely revered across Rivers State communities like the Kalabari and Okrika as a sacred animal associated with water deities and ancestral spirits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 168",
+    "Question": {
+      "content": "The issue of states creation in Nigeria could be traced to the political leaders from the",
+      "type": "OBJ",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West",
+        "Middle Belt"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "North"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Northern leaders initially advocated for state creation to address regional imbalances following independence, beginning with the Midwest region in 1963."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 169",
+    "Question": {
+      "content": "The rituals associated with birth commence with",
+      "type": "OBJ",
+      "options": [
+        "Child birth",
+        "Naming ceremony",
+        "Pregnancy",
+        "Initiation",
+        "Rites"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pregnancy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional birth rituals begin during pregnancy with protective ceremonies, dietary taboos, and spiritual preparations for safe delivery."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 170",
+    "Question": {
+      "content": "Some aspects of culture are more prone than our children",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "None"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Certain cultural elements like language and core values are more readily transmitted to children than complex traditions requiring initiation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 171",
+    "Question": {
+      "content": "______ argues that the context of the natural mode of production, at certain historical juncture, translates into a chronicle of the relations",
+      "type": "OBJ",
+      "options": [
+        "Herbert Spencer",
+        "Frederica Engels",
+        "Max Weber",
+        "Karl Marx",
+        "Emile Durkheim"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Karl Marx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx's historical materialism posits that economic production systems fundamentally shape social relations throughout historical stages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 172",
+    "Question": {
+      "content": "The colony of Lagos was ceded to the British as a crown colony in",
+      "type": "OBJ",
+      "options": [
+        "1950",
+        "1862",
+        "1898",
+        "1896",
+        "1904"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1862"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Though the Lagos Treaty was signed in 1861, formal declaration as a Crown Colony occurred in 1862, marking the beginning of formal British colonial administration."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 173",
+    "Question": {
+      "content": "Under the communal mode of production social organization centered around",
+      "type": "OBJ",
+      "options": [
+        "family system",
+        "groups",
+        "communities",
+        "organizations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "family system"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pre-colonial African societies typically organized production through extended family units that collectively owned and worked land."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 174",
+    "Question": {
+      "content": "In Benin, guilds of a very restricted caste type controlled the famous",
+      "type": "OBJ",
+      "options": [
+        "Class and bead industry",
+        "Clay and granite industry",
+        "Brass and bronze industry",
+        "Mining and iron industry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brass and bronze industry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Benin Bronze casters' guild maintained exclusive royal patronage, producing the famous Benin Bronzes through closely guarded techniques passed within families."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 175",
+    "Question": {
+      "content": "The art work of life is dated between",
+      "type": "OBJ",
+      "options": [
+        "10th and 12th centuries",
+        "11th and 15th centuries",
+        "16th century",
+        "14th and 17th centuries"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "11th and 15th centuries"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This refers to the peak period of classical African art traditions like the Benin Bronzes and Ife terracottas that flourished during this medieval period."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 176",
+    "Question": {
+      "content": "______ is a set of practices and beliefs of a group in relation to the school.",
+      "type": "OBJ",
+      "options": [
+        "Cult",
+        "Religion",
+        "Organization",
+        "Sect",
+        "Set Cult"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Religion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religion encompasses systematic beliefs and rituals that often influence educational systems and moral instruction in schools."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 177",
+    "Question": {
+      "content": "______ defined religion as a unified system of beliefs and practices relative to sacred things.",
+      "type": "OBJ",
+      "options": [
+        "Joseph-Ohl",
+        "Ogbanga",
+        "Durkheim",
+        "Auguste",
+        "Onwuciogwu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Durkheim"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Émile Durkheim's functionalist definition emphasizes religion's role in creating social cohesion through sacred-profane distinctions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 178",
+    "Question": {
+      "content": "Among the Ikwerre people, God is called ______.",
+      "type": "OBJ",
+      "options": [
+        "Oluwa",
+        "Baba",
+        "Chiokike",
+        "Abasi",
+        "Chukwu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chiokike"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ikwerre (Rivers State) traditionally refer to the Supreme Being as 'Chiokike' meaning 'the great god' in their language."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 179",
+    "Question": {
+      "content": "The book The Protestant Ethic and the Spirit of Capitalism was written by ______.",
+      "type": "OBJ",
+      "options": [
+        "Karl Marx",
+        "Bishop Oyedepo",
+        "Pastor Adelope",
+        "Max Weber",
+        "Pastor Kumuyi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Max Weber"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Weber's 1905 seminal work analyzed how Calvinist beliefs influenced the development of modern capitalist systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 180",
+    "Question": {
+      "content": "Every religious practice in Nigeria engages in special ______.",
+      "type": "OBJ",
+      "options": [
+        "Oath taking",
+        "Ceremonies",
+        "Assignment",
+        "Tradition",
+        "Assembly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ceremonies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ritual ceremonies (from Islamic Salah to Christian communion to traditional sacrifices) are universal across Nigeria's religious traditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 181",
+    "Question": {
+      "content": "______ religion is associated with ancestor worship in Nigeria.",
+      "type": "OBJ",
+      "options": [
+        "Islam",
+        "Christianity",
+        "African Traditional Religion",
+        "Catholic",
+        "Hindu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "African Traditional Religion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Veneration of ancestors remains central to indigenous belief systems, where departed elders mediate between the living and the divine."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 182",
+    "Question": {
+      "content": "______ is a small evangelical group which recruits its members by conversion and which adopts a radical stance toward the state and society.",
+      "type": "OBJ",
+      "options": [
+        "Sect",
+        "Cult",
+        "Church",
+        "Club",
+        "Occult"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In sociological terms, sects are breakaway religious groups that demand intense commitment and often challenge mainstream values."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 183",
+    "Question": {
+      "content": "______ defined religion as consisting of ideas and functions reduced by human beings in the course of their development?",
+      "type": "OBJ",
+      "options": [
+        "Giddens",
+        "Feuerbach",
+        "Agwanwo",
+        "Werlu",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Feuerbach"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ludwig Feuerbach's anthropological approach viewed religion as humanity's projection of idealized attributes during cultural evolution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 184",
+    "Question": {
+      "content": "The Orthodox Church includes which one of the following?",
+      "type": "OBJ",
+      "options": [
+        "Roman Catholic, Anglican and Mexican citizen",
+        "Anglican, Assemblies and Other",
+        "Methodist, Anglican and American citizen",
+        "Roman Catholic, Metologist and Rexus",
+        "Christ Embassy, Winners, Redeemer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Roman Catholic, Anglican and Mexican citizen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This option contains two major orthodox traditions (Catholicism and Anglicanism) despite the unrelated 'Mexican citizen' inclusion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 185",
+    "Question": {
+      "content": "Religion has ______.",
+      "type": "OBJ",
+      "options": [
+        "No impact in development",
+        "Was founded by Max Weber",
+        "Has a huge impact on development",
+        "Is not practiced by Nigerians",
+        "Is not a universal concern"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Has a huge impact on development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religious institutions significantly influence Nigeria's education, healthcare, economy, and social services alongside spiritual matters."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 186",
+    "Question": {
+      "content": "Religion has only ______ definition",
+      "type": "OBJ",
+      "options": [
+        "One",
+        "Two definition",
+        "Three types",
+        "None",
+        "Several"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Several"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Scholars from different disciplines (theology, sociology, anthropology) have proposed multiple valid definitions of religion based on various perspectives."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 187",
+    "Question": {
+      "content": "Religion can be broadly defines as",
+      "type": "OBJ",
+      "options": [
+        "The System of belief imbued with tradition",
+        "Any system of belief that is imbued with sacredness",
+        "Some system of belief mixed with tradition and culture",
+        "Disorganized system of belief and practices resting on faith",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Any system of belief that is imbued with sacredness"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This definition captures the essential element of the sacred/profane distinction that characterizes religious systems across cultures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 188",
+    "Question": {
+      "content": "______ defined religion as 'a unified system of belief and practices relative to things set apart and forbidden...'",
+      "type": "OBJ",
+      "options": [
+        "Levine and Spates",
+        "Emile Durkheim",
+        "Talkot Parson",
+        "Karl Marx",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Emile Durkheim"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This is Durkheim's classic sociological definition from his work 'The Elementary Forms of Religious Life' (1912), emphasizing the sacred-profane dichotomy."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 189",
+    "Question": {
+      "content": "According to Berger, one of the most important aspects of religion is its ability to:",
+      "type": "OBJ",
+      "options": [
+        "Explain such phenomena as evil, suffering and death",
+        "Highlight wrongs and rights in society",
+        "Make people decide on heaven or hell",
+        "Judge the world",
+        "Die and rise again"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Explain such phenomena as evil, suffering and death"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Peter Berger's 'Sacred Canopy' theory posits that religion provides meaningful explanations for existential questions and human suffering."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 190",
+    "Question": {
+      "content": "Religion cannot be appropriately interpreted by mere observation because it is ______",
+      "type": "OBJ",
+      "options": [
+        "Erratic",
+        "Symbolic",
+        "Spiritual",
+        "Indeath",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Symbolic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religious meanings are encoded in symbols, rituals, and texts that require hermeneutic interpretation beyond surface observation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 191",
+    "Question": {
+      "content": "According to Otite and Ogimyo (1979), many relationship to the supernatural is",
+      "type": "OBJ",
+      "options": [
+        "Disorganized",
+        "Ordered and not haphazard",
+        "Ordered and Haphazard",
+        "Visibly evident",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ordered and not haphazard"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigerian anthropologists observed that indigenous religious practices follow systematic protocols for engaging spiritual forces, not random interactions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 192",
+    "Question": {
+      "content": "To many Nigerians, God is real but transcendental, remote in their day-to-day lives but deserves ______",
+      "type": "OBJ",
+      "options": [
+        "Sacrifice",
+        "Worship",
+        "Peace",
+        "Accolades",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Worship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While God is perceived as omnipotent but distant, regular worship through prayers and rituals maintains the divine-human connection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 193",
+    "Question": {
+      "content": "In practice, God is seen as ______",
+      "type": "OBJ",
+      "options": [
+        "Immanent, only powerful and omnipresent",
+        "Dispenser of final justice",
+        "One whose final decision cannot be changed",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nigerian religious worldviews typically combine these attributes - God's immediate presence, ultimate justice, and irrevocable decrees."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 194",
+    "Question": {
+      "content": "Like most African societies, Nigerian traditional societies",
+      "type": "OBJ",
+      "options": [
+        "Believe in his existence and place him at the apex above all others",
+        "Agree that he is not indispensable",
+        "Agree that he is spiritual and unreal",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Believe in his existence and place him at the apex above all others"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional Nigerian religions are monotheistic at core, recognizing a Supreme Being above lesser deities and spirits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 195",
+    "Question": {
+      "content": "Ogoni call God ______",
+      "type": "OBJ",
+      "options": [
+        "Barisia",
+        "Bhari",
+        "Bari",
+        "Otsentenene",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bari"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ogoni people of Rivers State refer to the Supreme God as 'Bari' in their Khana language."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 196",
+    "Question": {
+      "content": "Ogoni view God as",
+      "type": "OBJ",
+      "options": [
+        "A female who has productive powers",
+        "A man who has a multitude of children",
+        "A child of impeccable character",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ogoni cosmology typically portrays God as genderless and beyond human familial concepts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 197",
+    "Question": {
+      "content": "The Ogba People call God:",
+      "type": "OBJ",
+      "options": [
+        "Chukwudhha",
+        "Chukwubiana",
+        "Chukwudhama",
+        "Chukwudi",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chukwudhama"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ogba (an Igbo subgroup in Rivers State) use 'Chukwudhama' meaning 'God the glorious' in their dialect."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 198",
+    "Question": {
+      "content": "All these are names of various various languages except",
+      "type": "OBJ",
+      "options": [
+        "Ebiliayabi",
+        "Chiheko",
+        "Alah",
+        "Tamano",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These terms don't correspond to known Nigerian language names - likely fictional or misspelled options."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 199",
+    "Question": {
+      "content": "There are three religious Specialists in Igbo Tradition. These are",
+      "type": "OBJ",
+      "options": [
+        "Priest, mediator between men and divinities",
+        "Priest, Divinities and medicine man",
+        "Priest, medicine man and Chukwu",
+        "Divinites. Priest and Arochukwu",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Priest, mediator between men and divinities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional Igbo religious specialists include: Dibia (priest-healer), Umuada (mediators), and Ndiche (diviners)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 200",
+    "Question": {
+      "content": "Which is the most Correct?",
+      "type": "OBJ",
+      "options": [
+        "Though culturally diverse, most Nigerian religious beliefs share many things in common",
+        "Divinities are derived from deities",
+        "Divinities act as intermediaries between deities and men"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Though culturally diverse, most Nigerian religious beliefs share many things in common"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Despite ethnic variations, common themes include belief in Supreme Being, ancestor veneration, and spirit worlds across Nigerian traditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 207",
+    "Question": {
+      "content": "______ viewed religion as the Opium of the masses and means employed by the ruling class to maintain hold on the poor",
+      "type": "OBJ",
+      "options": [
+        "Emile Durkheim",
+        "Karl Marx",
+        "Sigmund Freud",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Karl Marx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Marx's famous critique characterized religion as a tool of social control that pacifies oppressed classes with promises of heavenly rewards."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 203",
+    "Question": {
+      "content": "Which is more correct between Marx and Durkheim's view of religion?",
+      "type": "OBJ",
+      "options": [
+        "Marx sees religion as imposing",
+        "Durkheim supports many different religions, and not for oppression",
+        "Durkheim sees religious necessities in survival",
+        "Weber looked at its difficulty in causing social change",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Durkheim sees religious necessities in survival"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Durkheim argued religion serves vital social functions like cohesion and meaning-making, unlike Marx's oppression thesis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 204",
+    "Question": {
+      "content": "To Sigmund Freud, religion has",
+      "type": "OBJ",
+      "options": [
+        "An evidence of infantile behavior",
+        "A means of social cohesion",
+        "A tool to stir up great social upheaval",
+        "A tool for reconciliation",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An evidence of infantile behavior"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Freud's psychoanalytic view considered religion a collective neurosis stemming from childhood desires for paternal protection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 205",
+    "Question": {
+      "content": "Which of this current activity supports Webers Claims?",
+      "type": "OBJ",
+      "options": [
+        "Tremendous social change due to advent of Islam",
+        "Tremendous social change due to the advent of Christianity",
+        "Modern Nigerian experience of religious Conflict",
+        "Increased unrest in society",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Weber's theory about religion as an engine of social change is validated by these historical and contemporary examples."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 206",
+    "Question": {
+      "content": "Which is the most correct statement?",
+      "type": "OBJ",
+      "options": [
+        "The diffused nature of religion and politics in the past also gave tremendous opportunity to the privileged to manipulate and advance their cause to the detriment of the poor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The diffused nature of religion and politics in the past also gave tremendous opportunity to the privileged to manipulate and advance their cause to the detriment of the poor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This reflects the Marxist perspective on how ruling classes have historically used religious institutions to maintain power structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 207",
+    "Question": {
+      "content": "Is there any link between religion and political, economic and social life in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religion permeates all aspects of Nigerian life - from Sharia laws in the North to Pentecostal influence on governance and business ethics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 208",
+    "Question": {
+      "content": "Which of this is not identified a cult",
+      "type": "OBJ",
+      "options": [
+        "Ogboni",
+        "Sango",
+        "Ekpe",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These are all legitimate traditional religious societies rather than modern destructive cults - Ogboni (Yoruba), Sango worship, and Ekpe (Efik/Ibibio)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 209",
+    "Question": {
+      "content": "The basic objective of adult men using masquerades or the secret societies that imitated the activity of the spirits was to maintain",
+      "type": "OBJ",
+      "options": [
+        "Religious affiliation",
+        "Moral Order",
+        "Status",
+        "Numerical strength",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Moral Order"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Secret societies and masquerade traditions served as enforcement mechanisms for community norms and ethical codes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 210",
+    "Question": {
+      "content": "In which tribe do we have religious people soliciting for help of the water spirits through invocation, dancing and sacrifices?",
+      "type": "OBJ",
+      "options": [
+        "Eklne Society",
+        "Igbo",
+        "Yoruba",
+        "Elik",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eklne Society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This appears to reference the Ekine/Sekapu cult of the Kalabari people who venerate water spirits (Owuamapu) through elaborate masquerades."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 211",
+    "Question": {
+      "content": "Which is the most appropriate statement? Egbo is ______",
+      "type": "OBJ",
+      "options": [
+        "A mysterious spirit who is supposed to live in the river and to preside at ceremonies of a society",
+        "A mysterious spirit who is supposed to live in the jungle and to preside at ceremonies of a society",
+        "A mysterious spirit who is supposed to live in the air and to preside at ceremonies of a society",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A mysterious spirit who is supposed to live in the jungle and to preside at ceremonies of a society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In Efik/Ibibio traditions, Egbo is a forest-dwelling spirit central to the secret society's rituals and governance functions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 212",
+    "Question": {
+      "content": "Which of this is true of the Ekpe Group?",
+      "type": "OBJ",
+      "options": [
+        "Only males can join",
+        "Boys are initiated at about the age of puberty",
+        "Members are bound by oath of secrecy",
+        "Fees on entrance are payable",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Ekpe secret society is an exclusively male organization with initiation at puberty, strict secrecy codes, and membership fees among the Efik/Ibibio people."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 213",
+    "Question": {
+      "content": "The highest rank of the Ekpe is",
+      "type": "OBJ",
+      "options": [
+        "Nsibidi",
+        "Amama",
+        "Ran",
+        "Ekong",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nsibidi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nsibidi refers both to the highest Ekpe rank and the society's secret ideographic writing system used by top initiates."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 214",
+    "Question": {
+      "content": "Worship, prayers and sacrifices in Nigeria were means of",
+      "type": "OBJ",
+      "options": [
+        "Creating crises",
+        "Creating harmonious relationship among the people",
+        "Creating untouchable relationship between people and God",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating harmonious relationship among the people"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional religious practices primarily aim to maintain social cohesion and balance between community members and the spiritual realm."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 215",
+    "Question": {
+      "content": "Which of these are not an ongoing forum because of Sacrifice?",
+      "type": "OBJ",
+      "options": [
+        "Expiation",
+        "Warding of molestation from Unknown spirit",
+        "Mayhem",
+        "Petition",
+        "Thanksgiving"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mayhem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mayhem (violent disorder) is not a purpose of ritual sacrifice, unlike atonement (expiation), protection, requests (petition), or gratitude (thanksgiving)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 216",
+    "Question": {
+      "content": "Which of these are not among the key factors that influenced the decline of indigenous religion?",
+      "type": "OBJ",
+      "options": [
+        "Colonialism",
+        "Western acculturation",
+        "Proselytization of Islam and Christianity",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "All listed factors (colonial suppression, Westernization, and missionary religions) contributed to the decline of traditional African religions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 217",
+    "Question": {
+      "content": "Which of this best describes traditional religion?",
+      "type": "OBJ",
+      "options": [
+        "Messianic type",
+        "Missionary type",
+        "Expansionist type",
+        "Revolutionary type",
+        "Conservative type"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conservative type"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Indigenous religions prioritize preserving ancestral traditions rather than seeking converts or radical social transformation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 218",
+    "Question": {
+      "content": "Which of these religions is indigenous to Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Christianity",
+        "Islam",
+        "Traditional",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Only African Traditional Religion originated indigenously, while Christianity and Islam were introduced through trade and colonization."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 219",
+    "Question": {
+      "content": "Which of these groups still follows the religion of their ancestors even after colonization?",
+      "type": "OBJ",
+      "options": [
+        "Jukans",
+        "Tivs",
+        "Bornos",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While modified by external influences, elements of traditional religion persist among the Jukun, Tiv, and Borno peoples alongside mainstream religions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 220",
+    "Question": {
+      "content": "Do you agree that religion is inextricably tied up with peoples of Israel?",
+      "type": "OBJ",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The question references how Jewish identity fundamentally intertwines with religious tradition, though it seems out of place in this Nigerian context."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 221",
+    "Question": {
+      "content": "The teachings of God encourages us to",
+      "type": "OBJ",
+      "options": [
+        "Desist from evil",
+        "Love one another",
+        "Flee from corruption",
+        "Live by example",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These universal ethical principles are found across Nigerian religious traditions, from Christianity/Islam to indigenous belief systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 227",
+    "Question": {
+      "content": "______ existed in Africa where he took the period of colonization and the jihad of Danfodio",
+      "type": "OBJ",
+      "options": [
+        "Traditional Religion",
+        "Traditional Governance",
+        "Traditional Isolation",
+        "Traditional Education"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional Education"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Sokoto Caliphate's Quranic schools and indigenous knowledge systems persisted through colonial periods, referencing Usman Dan Fodio's 19th century jihad."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 228",
+    "Question": {
+      "content": "Which of these best describes religion?",
+      "type": "OBJ",
+      "options": [
+        "It is a locally built cultural practice",
+        "Its a universal and culture specific Phenomenon",
+        "It’s a universal and foreign specific Phenomenon",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Its a universal and culture specific Phenomenon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Religion is both a universal phenomenon (found in all cultures) and culture-specific (shaped by local beliefs and practices)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 229",
+    "Question": {
+      "content": "Which of this best describes God to Christians?",
+      "type": "OBJ",
+      "options": [
+        "Omnipotent",
+        "Omniscience",
+        "Omnipresent",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Christian theology describes God as omnipotent (all-powerful), omniscient (all-knowing), and omnipresent (present everywhere)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 230",
+    "Question": {
+      "content": "The shedding of blood of humans, animals or birds to gods is called ______.",
+      "type": "OBJ",
+      "options": [
+        "Prayer",
+        "Sacrifice",
+        "Warship",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sacrifice"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sacrifice involves offering life (blood) to deities as an act of devotion, atonement, or ritual obligation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 231",
+    "Question": {
+      "content": "Sorcery and witchcraft belief exist and are prominent as forms of or as coming from ______.",
+      "type": "OBJ",
+      "options": [
+        "Witches and wizards",
+        "Bad people",
+        "Herbalist",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bad people"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In many cultures, sorcery and witchcraft are attributed to malicious individuals ('bad people') who wield supernatural harm."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 232",
+    "Question": {
+      "content": "Human sacrifices are offered with the belief that one is being referred to ______.",
+      "type": "OBJ",
+      "options": [
+        "Restitution",
+        "Save the lives of many",
+        "Be born again",
+        "Incantation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Save the lives of many"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Human sacrifices often stem from the belief that they appease deities or spirits to prevent collective calamity (e.g., famine, war)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 233",
+    "Question": {
+      "content": "African traditional societies were simple societies.",
+      "type": "OBJ",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These societies were typically small-scale, with subsistence economies and minimal social stratification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 234",
+    "Question": {
+      "content": "African traditional societies witnessed massive specialization.",
+      "type": "OBJ",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Occupational specialization was limited compared to industrialized societies; roles were often communal or familial."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 235",
+    "Question": {
+      "content": "Education in traditional societies turned individuals to the larger society and which resulted to social unrest.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "None of above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional education emphasized social harmony, transmitting values and skills to maintain cultural continuity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 236",
+    "Question": {
+      "content": "According to ______ rituals are means through which society reaffirms itself from time to time.",
+      "type": "OBJ",
+      "options": [
+        "Karl Marx",
+        "Durkheim",
+        "Marx Weber"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Durkheim"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Émile Durkheim argued that rituals reinforce collective identity and social cohesion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 237",
+    "Question": {
+      "content": "______ enable people to adjust their behavioural patterns in order that they can participate and be part of society.",
+      "type": "OBJ",
+      "options": [
+        "Social order",
+        "Rituals",
+        "Worship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social order"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Social order encompasses norms, laws, and institutions that regulate behavior for societal stability."
+    }
+  }
+]
