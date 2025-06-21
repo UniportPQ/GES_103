@@ -1,0 +1,2215 @@
+[  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Nigerian People and Culture",
+    "code": "GES 103",
+    "session": "2021/2022",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Attempt all Questions."
+  },
+    {
+        "type": "Question",
+        "name": "Question 1",
+        "Question": {
+            "content": "The post-independence Nigerian economy has been characterized by ______",
+            "type": "OBJ",
+            "options": [
+                "Pro-imperialism",
+                "Neo-colonial capitalism",
+                "Independent capitalism",
+                "Expatriate domination",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The post-independence Nigerian economy reflects a mix of <strong>pro-imperialism</strong>, <strong>neo-colonial capitalism</strong>, <strong>independent capitalism</strong>, and <strong>expatriate domination</strong>, making 'All of the above' the correct answer.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "The goal of national development is to ______",
+            "type": "OBJ",
+            "options": [
+                "Improve the living conditions of the citizenry",
+                "Provide employment",
+                "Fight corruption",
+                "Achieve economic growth"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Improve the living conditions of the citizenry"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>National development primarily aims to <strong>improve living conditions</strong> for citizens, encompassing broader socio-economic progress beyond employment or growth alone.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3",
+        "Question": {
+            "content": "Nigeria was introduced into the world capitalist system during the ______ economy.",
+            "type": "OBJ",
+            "options": [
+                "Independence",
+                "Pre-colonial",
+                "Pre-independence",
+                "Colonial"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Colonial"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's integration into global capitalism began under <strong>colonial rule</strong>, which reshaped its economy for resource extraction and trade.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 4",
+        "Question": {
+            "content": "NEEDS ______ document stated that Nigeria had one of the weakest economies in the world",
+            "type": "OBJ",
+            "options": [
+                "2003",
+                "2004",
+                "2005",
+                "2006"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "2004"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>2004 NEEDS</strong> (National Economic Empowerment and Development Strategy) report highlighted Nigeria's economic vulnerabilities at the time.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 5",
+        "Question": {
+            "content": "There is the persistence of the ______ rather than the productive nature of the economy.",
+            "type": "OBJ",
+            "options": [
+                "Interventionist",
+                "Imperialist",
+                "Mercantilist",
+                "Capitalist"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mercantilist"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's economy has historically leaned toward <strong>mercantilism</strong> (trade-based accumulation) over productive industrialization.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6",
+        "Question": {
+            "content": "Massive plundering of Nigeria’s economic resources was initially carried out by ______",
+            "type": "OBJ",
+            "options": [
+                "Nigerians",
+                "Imperialist",
+                "British",
+                "Ruling class"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "British"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>British colonial administration</strong> systematically extracted Nigeria's resources, setting a precedent for later exploitation.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 7",
+        "Question": {
+            "content": "______ and ______ blocked the way for natural and gradual capitalist development in Nigeria.",
+            "type": "OBJ",
+            "options": [
+                "Imperialism and capitalism",
+                "Colonialism and capitalism",
+                "Capitalism and domination",
+                "Interventionism and capitalism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Colonialism and capitalism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Colonialism</strong> disrupted indigenous systems, while <strong>capitalism</strong> entrenched dependency, hindering organic economic growth.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 8",
+        "Question": {
+            "content": "Nigeria has adopted ______ development plans since independence?",
+            "type": "OBJ",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "5"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria implemented <strong>five</strong> national development plans post-independence (1962–1985), aimed at economic diversification and infrastructure.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 9",
+        "Question": {
+            "content": "Pre-capitalist Nigerian economy thrived on barter and ______",
+            "type": "OBJ",
+            "options": [
+                "Reciprocity",
+                "Subsistence",
+                "Agricultural",
+                "Trade"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Reciprocity"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The pre-capitalist Nigerian economy relied heavily on <strong>barter</strong> and <strong>reciprocity</strong>, where goods and services were exchanged based on mutual need and social ties.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 10",
+        "Question": {
+            "content": "Traditional Nigerian economy was marked by division of labour according to ______ and ______",
+            "type": "OBJ",
+            "options": [
+                "Sex, background",
+                "Age, lineage",
+                "Age, sex",
+                "Sex, kingroup"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Age, sex"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In traditional Nigerian societies, labor was divided primarily by <strong>age</strong> (e.g., elders vs. youth) and <strong>sex</strong> (gender roles in farming, crafts, etc.).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 11",
+        "Question": {
+            "content": "Post-independence economy is not remarkably different from the ______ economy.",
+            "type": "OBJ",
+            "options": [
+                "Colonial",
+                "Pre-colonial",
+                "Independence",
+                "Traditional"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Colonial"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's post-independence economy retained <strong>colonial-era structures</strong>, such as resource extraction and dependency on foreign markets.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 12",
+        "Question": {
+            "content": "The mainstay of the traditional Nigerian economy was ______",
+            "type": "OBJ",
+            "options": [
+                "Trading",
+                "Oil",
+                "Agricultural",
+                "Production"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Agricultural"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Agriculture was the <strong>primary economic activity</strong> in traditional Nigeria, sustaining livelihoods through crops and livestock.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 13",
+        "Question": {
+            "content": "All except one is not a marker of a strong, healthy and viable economy",
+            "type": "OBJ",
+            "options": [
+                "High GDP",
+                "Low exchange rate",
+                "Increase in per capita income",
+                "Reduction in inflation rate"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Low exchange rate"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>low exchange rate</strong> (weak currency) often signals economic weakness, unlike high GDP, rising income, or controlled inflation.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 14",
+        "Question": {
+            "content": "The annual GDP and the driver of economic growth as at 2014 were ______ and ______",
+            "type": "OBJ",
+            "options": [
+                "6.2%; oil sector",
+                "6.2%; agriculture",
+                "6.3%; oil sector",
+                "6.3%; non-oil sector"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "6.3%; non-oil sector"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In 2014, Nigeria's GDP growth was <strong>6.3%</strong>, driven by the <strong>non-oil sector</strong> (e.g., agriculture, services) amid declining oil revenues.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 15",
+        "Question": {
+            "content": "______ is the bedrock of any form of contemporary human organization.",
+            "type": "OBJ",
+            "options": [
+                "Polity",
+                "Society",
+                "Economy",
+                "Religion"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Economy"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>economy</strong> underpins modern societies by providing resources, livelihoods, and infrastructure for other systems (political, social) to function.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 16",
+        "Question": {
+            "content": "Ownership of the means of production in traditional Hausa-Fulani empire was ______",
+            "type": "OBJ",
+            "options": [
+                "Communal",
+                "Feudal",
+                "Individual",
+                "Cooperative"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Feudal"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The Hausa-Fulani empire operated a <strong>feudal system</strong>, where land and production were controlled by elites (emirs, nobles) with peasants as tenants.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 17",
+        "Question": {
+            "content": "The British handed over power to the London-groomed",
+            "type": "OBJ",
+            "options": [
+                "Pro-imperialists",
+                "Bourgeoisie",
+                "Imperialists",
+                "Capitalists"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Bourgeoisie"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Post-independence, power was transferred to the <strong>bourgeoisie</strong> (elite class), who were often aligned with British interests and systems.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 18",
+        "Question": {
+            "content": "One of these represents ‘Flag independence’",
+            "type": "OBJ",
+            "options": [
+                "Economic independence",
+                "Sovereignty",
+                "Political independence",
+                "Foreign control"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Political independence"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>'Flag independence' refers to <strong>political sovereignty</strong> (symbolized by a national flag) without full economic autonomy, as seen in post-colonial Nigeria.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 19",
+        "Question": {
+            "content": "______ assessed Nigerian economy as the first and biggest in Africa in 2014.",
+            "type": "OBJ",
+            "options": [
+                "IMF",
+                "World Bank",
+                "ADB",
+                "Paris Club"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "World Bank"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>World Bank</strong> ranked Nigeria's economy as Africa's largest in 2014 after GDP rebasing, surpassing South Africa.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 20",
+        "Question": {
+            "content": "Nigeria was incorporated into the international capitalist framework through",
+            "type": "OBJ",
+            "options": [
+                "Taxation",
+                "Exchange",
+                "Peasantry",
+                "Production"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Exchange"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Colonial <strong>exchange systems</strong> (e.g., cash crops for manufactured goods) integrated Nigeria into global capitalism, replacing subsistence economies.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 21",
+        "Question": {
+            "content": "Nigeria is dependent on ______ for consolidated budgetary revenues",
+            "type": "OBJ",
+            "options": [
+                "Production export",
+                "Service export",
+                "Resource export",
+                "Goods import"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Resource export"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's budget relies heavily on <strong>resource exports</strong> (especially oil), making it vulnerable to global price fluctuations.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 22",
+        "Question": {
+            "content": "A consequence of the liberal nature of the Nigeria market is ______",
+            "type": "OBJ",
+            "options": [
+                "Embracement of agricultural biotechnology for GMO’s",
+                "Poverty",
+                "Insecurity",
+                "Privatization"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Privatization"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Market liberalization in Nigeria led to <strong>privatization</strong> of state-owned enterprises, aligning with neoliberal economic policies.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 23",
+        "Question": {
+            "content": "Corruption and ______ have further crippled the economy and national development",
+            "type": "OBJ",
+            "options": [
+                "Economic depression",
+                "Over dependence on oil",
+                "Resource control",
+                "Globalization"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Over dependence on oil"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Over-reliance on oil revenues</strong> and corruption have stifled diversification, exacerbating economic instability and underdevelopment.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 24",
+        "Question": {
+            "content": "The imperialistic underdevelopment of Nigeria was instituted during trade with the ______",
+            "type": "OBJ",
+            "options": [
+                "America",
+                "France",
+                "Portugal",
+                "West"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Portugal"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Early exploitative trade with <strong>Portugal</strong> (e.g., transatlantic slavery) initiated Nigeria's integration into unequal global economic systems.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 25",
+        "Question": {
+            "content": "Africa was partitioned at the Berlin conference of ______",
+            "type": "OBJ",
+            "options": [
+                "1854",
+                "1855",
+                "1856",
+                "1858"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1855"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Berlin Conference</strong> (1884-1885) is the correct historical event where Africa was partitioned among European powers, though the options provided are inaccurate. The closest option listed is 1855.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 26",
+        "Question": {
+            "content": "The focal point of every health care system is to provide ______ for the prevention of diseases as well as to treat ill person suffering from HIV/AIDS and Ebola virus.",
+            "type": "OBJ",
+            "options": [
+                "Information",
+                "Directive",
+                "Health service",
+                "Complementary medicine"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Health service"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The core mission of healthcare systems is to deliver <strong>health services</strong>, encompassing prevention, treatment, and management of diseases like HIV/AIDS and Ebola.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 27",
+        "Question": {
+            "content": "Health care Delivery system (H C D S) can be described as all the formal and non-formal activities which in the provision of health services to ______",
+            "type": "OBJ",
+            "options": [
+                "A patient",
+                "Mothers",
+                "Children",
+                "A population"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "A population"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Healthcare Delivery Systems (HCDS) aim to serve <strong>entire populations</strong>, not just specific groups, through comprehensive health interventions.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 28",
+        "Question": {
+            "content": "The definition of H C D S is ______; hence it covers all health care practices and services that serve the public health.",
+            "type": "OBJ",
+            "options": [
+                "Fragmented",
+                "Holistic",
+                "Proper",
+                "Good"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Holistic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>HCDS is <strong>holistic</strong>, integrating diverse practices (preventive, curative, palliative) to address public health needs comprehensively.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 29",
+        "Question": {
+            "content": "The H C D S is classified into orthodox health care, indigenous health care and ______",
+            "type": "OBJ",
+            "options": [
+                "Traditional health care",
+                "Primary health care (PHC)",
+                "Western health care",
+                "Complementary health care"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Complementary health care"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>HCDS includes <strong>complementary health care</strong> (e.g., acupuncture, herbal medicine) alongside orthodox and indigenous systems.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 30",
+        "Question": {
+            "content": "The orthodox health care delivery system (O H C D S) delivers health services to people through its ______ components in Nigeria.",
+            "type": "OBJ",
+            "options": [
+                "Two",
+                "Four",
+                "Three",
+                "Western and indigenous medicine"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Three"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Orthodox healthcare in Nigeria operates through <strong>three tiers</strong>: primary, secondary, and tertiary care.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 31",
+        "Question": {
+            "content": "The O H C D S has a ______ as a team leader.",
+            "type": "OBJ",
+            "options": [
+                "Health professional",
+                "Pharmacy",
+                "Doctor",
+                "Nurse"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Doctor"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In orthodox healthcare teams, the <strong>doctor</strong> typically leads clinical decision-making and patient care.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 32",
+        "Question": {
+            "content": "Tertiary health care which is at the ______ of the national health system consists of highly specialized services in Nigeria.",
+            "type": "OBJ",
+            "options": [
+                "Level",
+                "Management",
+                "Good",
+                "More"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Level"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Tertiary care represents the highest <strong>level</strong> of the health system, offering advanced treatments (e.g., neurosurgery, cancer therapy).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 33",
+        "Question": {
+            "content": "Lucas and Gilles (2003) see primary health care in Nigeria as a ______ health care that is community-based",
+            "type": "OBJ",
+            "options": [
+                "Proper",
+                "Good",
+                "Unique",
+                "Defined"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Unique"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Lucas and Gilles describe PHC as <strong>unique</strong> because it tailors healthcare delivery to community-specific needs and contexts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 34",
+        "Question": {
+            "content": "The PHC brings health care as close as possible to where the ______ live and work.",
+            "type": "OBJ",
+            "options": [
+                "Patients",
+                "Recovered patients",
+                "Workers",
+                "People"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "People"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Primary Health Care (PHC) emphasizes accessibility for all <strong>people</strong>, ensuring services are available in their everyday environments.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 35",
+        "Question": {
+            "content": "The indigenous medicine, in the following words as ______ of the prevention and care of diseases in Nigeria.",
+            "type": "OBJ",
+            "options": [
+                "Traditional art or culture",
+                "Traditional art or science",
+                "Traditional art and culture",
+                "Cultural ways"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Traditional art or science"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Indigenous medicine is regarded as a <strong>traditional art or science</strong>, blending empirical knowledge with cultural practices for disease management.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 36",
+        "Question": {
+            "content": "A herbalist is a man or ______ of plants.",
+            "type": "OBJ",
+            "options": [
+                "Woman",
+                "Worker",
+                "Professional",
+                "The elder"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Woman"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Herbalists can be <strong>men or women</strong> who specialize in using plants for medicinal purposes.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 37",
+        "Question": {
+            "content": "The bone setters use locally woven splint to help properly ______ simple, compound and complex fractured bones for patients’ quick recuperation.",
+            "type": "OBJ",
+            "options": [
+                "Put",
+                "Care",
+                "Align",
+                "Splint"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Align"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Bone setters focus on <strong>aligning</strong> fractured bones correctly using traditional splints to promote healing.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 38",
+        "Question": {
+            "content": "A herbalist uses the following except ______ in treating patients.",
+            "type": "OBJ",
+            "options": [
+                "Leaves",
+                "Banks",
+                "Roots",
+                "Mud leaves"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Banks"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Herbalists use plant parts like <strong>leaves, roots, and mud leaves</strong>, but not <strong>banks</strong> (financial institutions), which are irrelevant to herbal medicine.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 39",
+        "Question": {
+            "content": "Acupressure is using needles to locate the ______",
+            "type": "OBJ",
+            "options": [
+                "Acu..... area",
+                "Acu..... body",
+                "Acu..... nerves",
+                "Acu..... point"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Acu..... point"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Acupressure targets specific <strong>acupoints</strong> (energy points) to relieve pain or restore balance in the body.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 40",
+        "Question": {
+            "content": "Acupuncture is using needles to locate the ______ so that pain messages can be halted from reaching the brain of the sick.",
+            "type": "OBJ",
+            "options": [
+                "Brain",
+                "Body"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Body"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Acupuncture involves inserting needles into the <strong>body's</strong> meridian points to block pain signals before they reach the brain.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 41",
+        "Question": {
+            "content": "Alexander technique is using correct posture so that the body is able to function naturally and with the minimum amount of ______ effort",
+            "type": "OBJ",
+            "options": [
+                "Body",
+                "Strength",
+                "Muscular",
+                "Movement"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Muscular"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The Alexander Technique focuses on reducing unnecessary <strong>muscular</strong> tension to improve posture and movement efficiency.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 42",
+        "Question": {
+            "content": "AIDS may mean group of signs and symptoms resulting from an acquired virus that reduces or makes the body immunity inactive or deficient and thus exposes the patient to ______ that may lead to his or her death.",
+            "type": "OBJ",
+            "options": [
+                "Diseases",
+                "Diseases and illnesses",
+                "Opportunistic infections",
+                "Sore"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Opportunistic infections"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>AIDS weakens the immune system, making patients vulnerable to <strong>opportunistic infections</strong> (e.g., tuberculosis, pneumonia) that are typically harmless to healthy individuals.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 43",
+        "Question": {
+            "content": "The first HIV/AIDS incident in Nigeria was in the ______ and this led to serious threats to Nigerians.",
+            "type": "OBJ",
+            "options": [
+                "1970s",
+                "1980s",
+                "1990s",
+                "2000s"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1980s"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's first HIV/AIDS case was reported in <strong>1986</strong>, marking the start of a significant public health crisis in the 1980s.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 44",
+        "Question": {
+            "content": "Ebola virus first appeared in ______ in simultaneous outbreaks in Africa.",
+            "type": "OBJ",
+            "options": [
+                "1940",
+                "1966",
+                "1976",
+                "1975"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1976"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The Ebola virus was first identified in <strong>1976</strong> during outbreaks in Sudan and the Democratic Republic of Congo.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 45",
+        "Question": {
+            "content": "The simultaneous outbreaks were in ______ and ______.",
+            "type": "OBJ",
+            "options": [
+                "Nkata, in Sudan and Yamatutu in Democratic Republic (DR) of Congo",
+                "Akata, in Sudan and Yama in DR of Congo",
+                "Nazra in Sudan and Yaleie in DR of Congo",
+                "Nazra in Sudan and Yambuku in DR Congo"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Nazra in Sudan and Yambuku in DR Congo"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The 1976 Ebola outbreaks occurred in <strong>Nazra, Sudan</strong>, and <strong>Yambuku, DR Congo</strong>, with the latter near the Ebola River, from which the virus got its name.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 46",
+        "Question": {
+            "content": "For the treatment of HIV/AIDS, anti-retroviral drugs (ARVDs) have been found to be useful ______ to the lives of the infected persons",
+            "type": "OBJ",
+            "options": [
+                "Treat",
+                "Care",
+                "Secure",
+                "Prolong"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Prolong"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>ARVDs <strong>prolong</strong> the lives of HIV/AIDS patients by suppressing viral replication and delaying disease progression.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 47",
+        "Question": {
+            "content": "ARVDs reduce the viral loads of HIV in patients to ______.",
+            "type": "OBJ",
+            "options": [
+                "5%",
+                "10%",
+                "0.01%",
+                "Zero level"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "0.01%"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Effective ARVD therapy can reduce HIV viral loads to <strong>undetectable levels (0.01%)</strong>, though the virus remains dormant in reservoirs.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 48",
+        "Question": {
+            "content": "DNA vaccines are some of the vaccines used in the treatment of ______ patients.",
+            "type": "OBJ",
+            "options": [
+                "HIV/AIDS",
+                "Lassa fever",
+                "HIV/AIDS and Cancer"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "HIV/AIDS"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>DNA vaccines are experimental tools being studied primarily for <strong>HIV/AIDS</strong> to stimulate immune responses against the virus.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 49",
+        "Question": {
+            "content": "Ebola virus may lead to the infection of the practitioner and those in the ______ family",
+            "type": "OBJ",
+            "options": [
+                "Community",
+                "Workplace",
+                "Immediate environment",
+                "Homeopathy in particular has a lot 37 offer and his known to care many diseases that 24/61 are otherwise labelled as ______ by modern medium"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Immediate environment"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Ebola spreads through direct contact, putting the <strong>immediate environment</strong> (family, caregivers) at highest risk.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 50",
+        "Question": {
+            "content": "Homeopathy in particular has a lot to offer and is known to cure many diseases that are otherwise labelled as ______ by modern medicine",
+            "type": "OBJ",
+            "options": [
+                "Curable",
+                "Incurable",
+                "Manageable",
+                "Preventable"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Incurable"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Homeopathy often claims success with conditions deemed <strong>incurable</strong> by conventional medicine, though evidence is debated.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 51",
+        "Question": {
+            "content": "The three environmental regions of the eastern and southern cultural zones include all of the following except ______",
+            "type": "OBJ",
+            "options": [
+                "Coastal wetlands",
+                "Savannah",
+                "Tropical forest",
+                "Coastal hotland",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Coastal hotland"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The term <strong>'coastal hotland'</strong> is not a standard geographical classification for Nigeria's eastern/southern zones.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 52",
+        "Question": {
+            "content": "The phenomenon of judging one’s culture as superior to another culture is called ______",
+            "type": "OBJ",
+            "options": [
+                "Cultural subjectivism",
+                "Cultural relativism",
+                "Ethnicity",
+                "Ethnocentrism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ethnocentrism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ethnocentrism</strong> refers to evaluating other cultures through the lens of one's own cultural norms, often with a sense of superiority.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 53",
+        "Question": {
+            "content": "Cultural zones are ______ areas which are occupied by individuals or groups who share common cultural traits.",
+            "type": "OBJ",
+            "options": [
+                "Historical",
+                "Agricultural",
+                "Religious",
+                "Geographical"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Geographical"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cultural zones are <strong>geographical</strong> regions where shared cultural practices (language, traditions) prevail among inhabitants.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 54",
+        "Question": {
+            "content": "The eastern cultural zone consists of ______ states",
+            "type": "OBJ",
+            "options": [
+                "Four",
+                "Six",
+                "Eight",
+                "All of the above",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "None of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's eastern zone typically includes <strong>five</strong> states (e.g., Enugu, Anambra), making all listed options incorrect.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 55",
+        "Question": {
+            "content": "All except one of the towns below is a major city in the eastern cultural zone",
+            "type": "OBJ",
+            "options": [
+                "Owerri",
+                "Enugu",
+                "Port Harcourt",
+                "Onitsha",
+                "Umuahia"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Port Harcourt"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Port Harcourt</strong> is in the southern (Niger Delta) zone, while others are core eastern cities.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 56",
+        "Question": {
+            "content": "The eastern cultural zone is",
+            "type": "OBJ",
+            "options": [
+                "Homogenous in history but not in culture and language",
+                "Homogenous in language but not in culture",
+                "Homogenous in culture but not in history",
+                "Homogenous in language but not in history",
+                "Homogenous in language, culture and history"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Homogenous in language but not in history"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The eastern zone shares <strong>Igbo language</strong> but has diverse historical narratives across subgroups.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 57",
+        "Question": {
+            "content": "All except one of the statements below is true of the southern cultural zone.",
+            "type": "OBJ",
+            "options": [
+                "The cultural heritage of the southern zone is similar but not homogenous in origin and history",
+                "The six states are located at the point where the River Niger joins the Atlantic ocean via the Gulf of Guinea",
+                "The zone is a source of the economic mainstay of the Nigerian economy.",
+                "Violence and youth restiveness are absent in this zone",
+                "The area has a great potential for tourism and agriculture"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Violence and youth restiveness are absent in this zone"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The southern zone has faced <strong>violence and restiveness</strong> (e.g., Niger Delta militancy), making this statement false.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 58",
+        "Question": {
+            "content": "Gender discrimination is prevalent in the eastern and southern cultural zones of Nigeria because of:",
+            "type": "OBJ",
+            "options": [
+                "Division of labour by gender",
+                "Improvement in women education",
+                "Domination of men over women",
+                "Nigeria is a signatory to the international convention on equality for women."
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Domination of men over women"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Patriarchal norms enforce <strong>male domination</strong>, limiting women's roles in politics, inheritance, and decision-making.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 59",
+        "Question": {
+            "content": "All except one reason below is given by Christian husbands for disobeying the biblical injunction of marriage to one wife in the eastern and southern cultural zones.",
+            "type": "OBJ",
+            "options": [
+                "Barrenness",
+                "Sexual promiscuity",
+                "Excessive love of their wife",
+                "Delivery of only one set of children (Male or Female)"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Excessive love of their wife"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Excessive love</strong> is not a cited reason for polygamy; societal pressure for male heirs or infertility are more common justifications.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 60",
+        "Question": {
+            "content": "Mother and the newly born baby are allowed to stay close for sometimes after delivery in the eastern and southern cultural zones of Nigeria for:",
+            "type": "OBJ",
+            "options": [
+                "Proper discussion",
+                "Proper understanding",
+                "Proper bonding",
+                "Proper proximity",
+                "Proper greeting."
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Proper bonding"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Post-delivery closeness fosters <strong>mother-child bonding</strong>, crucial for emotional attachment and breastfeeding initiation.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 61",
+        "Question": {
+            "content": "Another name for specific evolutionary theory of culture is",
+            "type": "OBJ",
+            "options": [
+                "Darwinism",
+                "Boasinanism",
+                "None of the above",
+                "Evolutionism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Evolutionism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Evolutionism</strong> posits that cultures develop linearly from 'primitive' to 'advanced' stages, akin to biological evolution.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 62",
+        "Question": {
+            "content": "Is it true that symbols are learned through skill education?",
+            "type": "OBJ",
+            "options": [
+                "Yes",
+                "No",
+                "Not applicable"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Yes"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cultural symbols (e.g., language, rituals) are acquired through <strong>education and socialization</strong>, not innate instincts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 63",
+        "Question": {
+            "content": "Man is a cultural animal but ______ are not",
+            "type": "OBJ",
+            "options": [
+                "Levi-straus",
+                "Yawning",
+                "Kope bar",
+                "Animals"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Animals"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Humans (<strong>cultural animals</strong>) create and transmit culture, while other species rely on instinctual behaviors.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 64",
+        "Question": {
+            "content": "Energy theory of culture is called",
+            "type": "OBJ",
+            "options": [
+                "Determinological determinism",
+                "Development determinism",
+                "Pragmatic",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "None of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The energy theory of culture, which links cultural development to energy capture/utilization, isn't represented by the given options.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 65",
+        "Question": {
+            "content": "Biological theory of evolution was developed by",
+            "type": "OBJ",
+            "options": [
+                "Charles Davidism",
+                "Sanderson",
+                "Charles Dowellin",
+                "Charles Darwin"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Charles Darwin"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Charles Darwin</strong> pioneered the biological theory of evolution through natural selection in <em>On the Origin of Species</em> (1859).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 66",
+        "Question": {
+            "content": "Cultural history is based on core",
+            "type": "OBJ",
+            "options": [
+                "Norms and history",
+                "Tradition and culture",
+                "Values and tradition",
+                "Tradition and folklores"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Values and tradition"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cultural history examines societal evolution through <strong>values</strong> (beliefs, ethics) and <strong>traditions</strong> (practices passed across generations).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 67",
+        "Question": {
+            "content": "The country is reported to have sustained economic growth for a decade with annual GDP as at",
+            "type": "OBJ",
+            "options": [
+                "6.1%",
+                "6.4%",
+                "6.2%",
+                "6.3%"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "6.3%"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's GDP growth averaged <strong>6.3%</strong> annually in the 2000s, driven by oil and non-oil sectors.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 68",
+        "Question": {
+            "content": "A common knowledge and point to note is that economic growth can occur",
+            "type": "OBJ",
+            "options": [
+                "Without development",
+                "Without manufacturing",
+                "With development",
+                "With high GDP"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Without development"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Growth (GDP rise) may not equate to <strong>development</strong> (improved living standards), as seen in Nigeria's oil-driven yet unequal growth.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 69",
+        "Question": {
+            "content": "The ultimate causes of all social change and political revolutions are to be sought",
+            "type": "OBJ",
+            "options": [
+                "In the minds of men",
+                "In the increasing insight",
+                "In truth and justice",
+                "In change in mode of production"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "In change in mode of production"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Marxist theory posits that <strong>production modes</strong> (e.g., feudalism to capitalism) drive societal transformations and revolutions.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 70",
+        "Question": {
+            "content": "In traditional Nigeria economy palm products represented",
+            "type": "OBJ",
+            "options": [
+                "A fixed method of the economy",
+                "A mixed aspect of the economy",
+                "A vital aspect of the economy",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "A vital aspect of the economy"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Palm oil/kernel were <strong>vital</strong> for trade, food, and soap-making, forming a cornerstone of pre-colonial economies.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 71",
+        "Question": {
+            "content": "In traditional Nigerian societies politics is synonymous with:",
+            "type": "OBJ",
+            "options": [
+                "Culture and anthropology",
+                "Culture and society",
+                "Welfarism and cosmology",
+                "Ethnics and religion"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Culture and society"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Politics in traditional contexts was intertwined with <strong>cultural norms</strong> and <strong>social hierarchies</strong> (e.g., councils of elders).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 72",
+        "Question": {
+            "content": "The egalitarian democracy of the communal mode became replaced with",
+            "type": "OBJ",
+            "options": [
+                "Military dictatorship",
+                "Civilian democracy",
+                "Military democracies",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "None of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Communal egalitarianism gave way to <strong>monarchical/feudal systems</strong> (e.g., emirates), not the listed modern governance forms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 73",
+        "Question": {
+            "content": "Good character presupposed stability and consistency in",
+            "type": "OBJ",
+            "options": [
+                "Aptitude of man",
+                "Aptitude of youth",
+                "Behavior of man",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Behavior of man"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Moral character is reflected in consistent <strong>behavioral patterns</strong>, not transient aptitudes.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 74",
+        "Question": {
+            "content": "The Nok culture is said to have flourished between",
+            "type": "OBJ",
+            "options": [
+                "900 or 500 AD",
+                "200 or 500 BC",
+                "900 or 500 BC",
+                "500 or 200 AD"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "500 or 200 AD"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The Nok civilization (known for terracotta art) thrived from <strong>500 BCE to 200 CE</strong> in central Nigeria.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 75",
+        "Question": {
+            "content": "The colony of Lagos was ceded to the British in ______ as a crown colony",
+            "type": "OBJ",
+            "options": [
+                "1861",
+                "1826",
+                "1825",
+                "1853"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1861"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Lagos became a British <strong>crown colony in 1861</strong> after the Treaty of Cession, formalizing colonial control.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 76",
+        "Question": {
+            "content": "In the emirate, an Emir was considered as the",
+            "type": "OBJ",
+            "options": [
+                "Spiritual ruler only",
+                "Administrative ruler only",
+                "Emirate ruler",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "None of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Emirs held <strong>dual roles</strong> as both spiritual (Islamic) and administrative leaders, making the options incomplete.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 77",
+        "Question": {
+            "content": "Tourism has been seen as one of the fastest growing ______ in the world.",
+            "type": "OBJ",
+            "options": [
+                "Traveling activities",
+                "Exporting activities",
+                "Attracting activities",
+                "Economic activities"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Economic activities"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Tourism is a major <strong>economic sector</strong>, contributing to GDP, employment, and foreign exchange globally.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 78",
+        "Question": {
+            "content": "Festival of traditional societies in Nigeria are based on ______.",
+            "type": "OBJ",
+            "options": [
+                "African traditional religion",
+                "Nigeria traditional religious",
+                "Historical experiences"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Historical experiences"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Festivals (e.g., Eyo, Argungu) often commemorate <strong>historical events</strong>, harvests, or ancestral legacies beyond purely religious contexts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 79",
+        "Question": {
+            "content": "Major carnivals are tourism destination in major cities in Nigeria are:",
+            "type": "OBJ",
+            "options": [
+                "Kalabari carnival",
+                "Dutpal carnival",
+                "Anambra carnival",
+                "Ganinv carnival"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Kalabari carnival"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Kalabari carnival</strong> in Rivers State showcases Ijaw culture, attracting tourists with boat regattas and masquerades.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 80",
+        "Question": {
+            "content": "Which of the social inequality paradigms believes in equilibrium, stability and order if society must exist:",
+            "type": "OBJ",
+            "options": [
+                "Conflict theory",
+                "Functionalist theory",
+                "Symbolism theory",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Functionalist theory"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Functionalism</strong> views inequality as necessary for societal stability, ensuring roles are filled based on merit.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 81",
+        "Question": {
+            "content": "Karl Marx believed that at the root of social inequality is the phenomenon of,",
+            "type": "OBJ",
+            "options": [
+                "Conflict",
+                "Materialism",
+                "Classes"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Classes"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Marx attributed inequality to <strong>class divisions</strong> (bourgeoisie vs. proletariat) under capitalism.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 82",
+        "Question": {
+            "content": "Communism manifest initially the term inequality was conceived to be synonymous with ______.",
+            "type": "OBJ",
+            "options": [
+                "Social mobility",
+                "Social hierarchy",
+                "Stratevian",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Social hierarchy"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Communism critiques <strong>social hierarchies</strong> (e.g., wealth/power disparities) as the core of inequality.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 83",
+        "Question": {
+            "content": "Social inequality in Marx's view is deeply rooted in the ______ in the society",
+            "type": "OBJ",
+            "options": [
+                "Marxist dialectics",
+                "Social stratifications",
+                "Social hierarchy",
+                "Mode of production"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mode of production"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Marx argued that inequality stems from the <strong>mode of production</strong> (e.g., capitalism), which creates class divisions between owners and workers.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 84",
+        "Question": {
+            "content": "The Igbo traditional society was not ______",
+            "type": "OBJ",
+            "options": [
+                "Class based",
+                "Traditional based",
+                "Cultural based",
+                "Historical based"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Class based"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Pre-colonial Igbo society was <strong>egalitarian</strong>, with decentralized governance (e.g., village assemblies), unlike rigid class systems.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 85",
+        "Question": {
+            "content": "The central point of unity in Igbo politics is ______",
+            "type": "OBJ",
+            "options": [
+                "Socio-economy line",
+                "Blood line",
+                "Ancestral descant",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Igbo unity was maintained through <strong>kinship (bloodline)</strong>, <strong>ancestral ties</strong>, and shared <strong>socio-economic</strong> systems like the <em>Ozo</em> title system.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 86",
+        "Question": {
+            "content": "When a population migrates to a subordinate position conflict occurs in the ______",
+            "type": "OBJ",
+            "options": [
+                "Later stage",
+                "Ethnic group",
+                "Early stage",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Early stage"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Initial migration often triggers <strong>early-stage conflicts</strong> over resources or cultural dominance before potential assimilation.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 87",
+        "Question": {
+            "content": "Effective discrimination relegates any minority group to inferior positions in the class struggle",
+            "type": "OBJ",
+            "options": [
+                "Social inequality",
+                "Wealthiness",
+                "Power",
+                "Education"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Social inequality"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Discrimination perpetuates <strong>social inequality</strong> by systematically marginalizing minority groups in access to power, wealth, and opportunities.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 88",
+        "Question": {
+            "content": "______ is one of the consequences of prejudice",
+            "type": "OBJ",
+            "options": [
+                "Group solidarity",
+                "Immorality",
+                "Racial hatred",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Racial hatred"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Prejudice fosters <strong>racial hatred</strong>, reinforcing stereotypes and divisive social hierarchies.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 89",
+        "Question": {
+            "content": "______ of all members of the minority group does not take place at the same time",
+            "type": "OBJ",
+            "options": [
+                "Grouping",
+                "Majority",
+                "Acculturation",
+                "Integration"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Integration"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Integration</strong> into dominant societies is gradual and uneven among minority members due to varying socio-economic factors.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 90",
+        "Question": {
+            "content": "Domination of the majority groups led to the institution of ______",
+            "type": "OBJ",
+            "options": [
+                "Willink commission",
+                "Dapper Brive commission",
+                "Pepple commission",
+                "Peterson commission"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Willink commission"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Willink Commission</strong> (1957) addressed minority fears in Nigeria's independence negotiations, highlighting majority-group dominance.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 91",
+        "Question": {
+            "content": "Agitation for a Benin Delta Region began on the western region as early as ______",
+            "type": "OBJ",
+            "options": [
+                "1949",
+                "1950",
+                "1960"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1949"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Demands for the <strong>Benin Delta Region</strong> emerged in <strong>1949</strong>, driven by ethnic minorities seeking autonomy from Yoruba-dominated Western Region.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 92",
+        "Question": {
+            "content": "In Nigeria and elsewhere, rural-rural migration provided the basis for",
+            "type": "OBJ",
+            "options": [
+                "Inter-tribal war",
+                "Inter-economic activities",
+                "Inter-ethic",
+                "Inter-group contact"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Inter-group contact"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Rural-rural migration facilitated <strong>inter-group contact</strong>, enabling cultural exchange and trade but also potential conflicts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 93",
+        "Question": {
+            "content": "Inequalities exist in",
+            "type": "OBJ",
+            "options": [
+                "All kind of society",
+                "U.S.A",
+                "Britain",
+                "Social union"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All kind of society"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Social inequalities (wealth, power, status) are universal, manifesting differently across <strong>all societies</strong>.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 94",
+        "Question": {
+            "content": "TBA means",
+            "type": "OBJ",
+            "options": [
+                "Trade by Association",
+                "Tradition Birthright",
+                "Tradition Birth Association",
+                "Tradition Birth Attendant"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Tradition Birth Attendant"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Traditional Birth Attendants (TBAs)</strong> are community-based caregivers assisting deliveries in rural areas with limited healthcare access.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 95",
+        "Question": {
+            "content": "Dual citizenship can result from",
+            "type": "OBJ",
+            "options": [
+                "Internal law",
+                "Culturalization",
+                "Citizen rights",
+                "Naturalization"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Naturalization"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Naturalization</strong> (acquiring citizenship in a new country) may allow retention of original citizenship, creating dual status.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 96",
+        "Question": {
+            "content": "Important civil rights given to citizens in democratic countries are embodied in",
+            "type": "OBJ",
+            "options": [
+                "Magna Carta of 1215",
+                "Petition of rights",
+                "Bill of rights of 1689",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Modern civil rights trace their roots to these <strong>historic documents</strong>: Magna Carta (limits on power), Petition of Right (1628, against arbitrary arrest), and Bill of Rights (1689, parliamentary supremacy).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 97",
+        "Question": {
+            "content": "Nigeria is said to have the following number of ethnic and linguistic groups",
+            "type": "OBJ",
+            "options": [
+                "About 230",
+                "240",
+                "About 245",
+                "350",
+                "Hausa, Yoruba and Ibo"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "About 250"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria has approximately <strong>250 ethnic groups</strong>, with Hausa, Yoruba, and Igbo being the largest. The closest option is 'About 245'.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 98",
+        "Question": {
+            "content": "Ecology is the study of",
+            "type": "OBJ",
+            "options": [
+                "Environment",
+                "Atmosphere",
+                "Planet",
+                "Plants and animals"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Plants and animals"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Ecology examines interactions among <strong>organisms (plants/animals)</strong> and their physical surroundings.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 99",
+        "Question": {
+            "content": "Culture region is divided into",
+            "type": "OBJ",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "3"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria's cultural regions are broadly categorized into <strong>three</strong>: Northern (Hausa-Fulani), Western (Yoruba), and Eastern (Igbo).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 100",
+        "Question": {
+            "content": "______ dictates production in traditional Nigerian farming system",
+            "type": "OBJ",
+            "options": [
+                "Exchange",
+                "Community need",
+                "Family needs",
+                "Primordial sentiment"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Family needs"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Subsistence farming prioritized <strong>family needs</strong>, with surplus occasionally traded in local markets.</div>"
+        }
+    }
+]
