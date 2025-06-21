@@ -1,0 +1,1137 @@
+[{
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Nigerian People and Culture",
+    "code": "GES 103",
+    "session": "2015/2016",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Attempt all Questions."
+  }, {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "The production, distribution and consumption of goods in the society are the propagation of ______ institution",
+      "type": "OBJ",
+      "options": [
+        "the family",
+        "educational",
+        "political",
+        "religious",
+        "Economic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div>The <strong>Economic</strong> institution is responsible for the production, distribution, and consumption of goods in society, as it governs how resources are allocated and utilized.</div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Agitation for Benin Delta region started in",
+      "type": "OBJ",
+      "options": [
+        "1944",
+        "1950",
+        "1928",
+        "1946",
+        "1962"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1962"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The agitation for the Benin Delta region began in <strong>1962</strong>, marking the start of organized movements advocating for the rights and development of the region.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "______ is a characteristic of culture",
+      "type": "OBJ",
+      "options": [
+        "symbolic",
+        "symbiotic",
+        "synchronism",
+        "weird",
+        "symothetic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "symbolic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Culture is <strong>symbolic</strong>, meaning it relies on symbols (like language, gestures, or artifacts) to convey meanings and values shared by a society.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "One of these is a society’s main purpose of manipulating marriage",
+      "type": "OBJ",
+      "options": [
+        "to regulate sexual behavior",
+        "to make money",
+        "to make people marry from their villages",
+        "to check infidels"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "to regulate sexual behavior"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A primary purpose of marriage in many societies is <strong>to regulate sexual behavior</strong>, ensuring social order and the legitimacy of offspring.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Things that grow naturally in a particular region can be described as ______",
+      "type": "OBJ",
+      "options": [
+        "indigenous",
+        "naturalistic",
+        "routine",
+        "regional",
+        "rooted"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "indigenous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The term <strong>indigenous</strong> refers to plants, animals, or people that are native to a specific region, having originated and evolved there naturally.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Nigeria is multiethnic nation ______?",
+      "type": "OBJ",
+      "options": [
+        "true",
+        "false"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria is a <strong>multiethnic</strong> nation, home to over 250 ethnic groups, including the Hausa, Yoruba, Igbo, and many others, each with distinct cultures and languages.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "An ecosystem refers to ______?",
+      "type": "OBJ",
+      "options": [
+        "community and its habitat",
+        "plant and animal population",
+        "economy and population",
+        "an assemblage of organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "community and its habitat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>An <strong>ecosystem</strong> encompasses a biological community of interacting organisms and their physical environment, functioning as a unit.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "In ______ descent system, individuals acquire membership in both matrilineal and patrilineal groups according to culturally determined rules",
+      "type": "OBJ",
+      "options": [
+        "ambilineal",
+        "unilineal",
+        "multiliteral",
+        "polylineal",
+        "double descent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ambilineal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>An <strong>ambilineal</strong> descent system allows individuals to choose or be assigned to either their mother's or father's lineage, depending on cultural rules.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Division of labour in pre capitalist economies is usually based on",
+      "type": "OBJ",
+      "options": [
+        "gender",
+        "wealth",
+        "power",
+        "education",
+        "qualification of strength"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "gender"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In pre-capitalist economies, the division of labor was predominantly <strong>gender-based</strong>, with tasks allocated according to societal roles assigned to men and women.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Organizational groups whose membership share labour among other things are",
+      "type": "OBJ",
+      "options": [
+        "Ethnic groups",
+        "mutual support network",
+        "consanguine groups",
+        "family support trials",
+        "Dyad"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mutual support network"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mutual support networks</strong> are groups where members collaborate and share resources, including labor, to achieve common goals or support one another.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Formal education never exist in pre-colonial Nigeria",
+      "type": "OBJ",
+      "options": [
+        "true",
+        "false"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "false"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Formal education <strong>did exist</strong> in pre-colonial Nigeria, exemplified by systems like the Qur'anic schools in the North and apprenticeship systems in the South.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Early traces of animal domestication in Nigeria are dated to the ______ era",
+      "type": "OBJ",
+      "options": [
+        "stone",
+        "Nok",
+        "cave",
+        "black",
+        "Amaro"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nok"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Nok</strong> era (around 1500 BCE–500 CE) in Nigeria is associated with early advancements in agriculture and animal domestication, evidenced by archaeological findings.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Those who think that their culture is more superior to others are",
+      "type": "OBJ",
+      "options": [
+        "ethnologist",
+        "ethnocentric",
+        "senocentric",
+        "culturecentric"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ethnocentric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ethnocentrism</strong> is the belief in the inherent superiority of one's own culture over others, often leading to biased judgments.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The technical words for causes of illness is",
+      "type": "OBJ",
+      "options": [
+        "epidemic",
+        "pandemic",
+        "Aetiology",
+        "Ethnology",
+        "diseasism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aetiology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Aetiology</strong> (or etiology) is the study of causation or origination, often used in medicine to refer to the causes of diseases or illnesses.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "______ was famous for its leather works",
+      "type": "OBJ",
+      "options": [
+        "Kano",
+        "Lagos",
+        "Kebbi",
+        "Kastina",
+        "Kaduna"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kano"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Kano</strong>, a historic city in Northern Nigeria, has been renowned for centuries for its high-quality leatherworks, including bags, shoes, and decorative items.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "______ clusters together to form culture complexes",
+      "type": "OBJ",
+      "options": [
+        "unit",
+        "traits",
+        "areas",
+        "regions",
+        "institution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "traits"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cultural <strong>traits</strong> (e.g., tools, customs, beliefs) combine to form <em>culture complexes</em>, which are interrelated sets of cultural practices or institutions.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The exchange for goods and goods is called",
+      "type": "OBJ",
+      "options": [
+        "Bend trade",
+        "barther",
+        "barter",
+        "distance trade",
+        "porter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "barter"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Barter</strong> is a system of exchange where goods or services are directly traded for other goods or services without using money.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "______ was famous for salt industry",
+      "type": "OBJ",
+      "options": [
+        "Akwette",
+        "Arochukwu",
+        "Uburu",
+        "Umuahia",
+        "Igbo-Ukwu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uburu"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Uburu</strong>, a town in southeastern Nigeria, was historically a major center for salt production, leveraging its natural brine springs.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which term best describes the marriage of a man to more than one wife",
+      "type": "OBJ",
+      "options": [
+        "serial monogamy",
+        "polygamy",
+        "polygyny",
+        "adultery",
+        "polyandry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "polygyny"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Polygyny</strong> specifically refers to a man having multiple wives simultaneously. Polygamy is a broader term for plural marriages, while polyandry involves a woman with multiple husbands.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Traditional African religion is described as ancestral worship because of its worship through",
+      "type": "OBJ",
+      "options": [
+        "incantation",
+        "probation",
+        "polytheism",
+        "forefathers",
+        "pagans"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "forefathers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Traditional African religions often emphasize <strong>ancestral worship</strong>, where reverence is directed toward deceased forefathers believed to mediate between the living and the divine.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Traditionally, having children primarily serves the following purposes except",
+      "type": "OBJ",
+      "options": [
+        "provide farm labourers",
+        "provide soldiers",
+        "insurance against high death rate",
+        "a source of family joy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "provide soldiers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>While children historically contributed to labor, ensured lineage continuity, and brought joy, their role as <strong>soldiers</strong> was not a universal or primary purpose in traditional societies.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which word best describes a people’s world view?",
+      "type": "OBJ",
+      "options": [
+        "relativism",
+        "cosmology",
+        "universe",
+        "reincarnation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "cosmology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Cosmology</strong> refers to a culture's understanding of the universe, its origins, and their place within it, encompassing beliefs about time, space, and existence.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which ethnic group uses the hakimi to administer the district?",
+      "type": "OBJ",
+      "options": [
+        "Yoruba",
+        "Igbo",
+        "Hausa/Fulani",
+        "Tiv",
+        "Idoma"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hausa/Fulani"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Hausa/Fulani</strong> ethnic group employs the <em>hakimi</em> (a district head) as part of their hierarchical, centralized administrative system, particularly in Northern Nigeria.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which technology were the Nok people notable for?",
+      "type": "OBJ",
+      "options": [
+        "salt making",
+        "iron smelting",
+        "woodwork",
+        "salt making"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "iron smelting"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Nok</strong> civilization (500 BCE–200 CE) is renowned for early advancements in <em>iron smelting</em>, evidenced by terracotta artifacts and iron tools found in archaeological sites.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Pre-colonial Kanem Bornu had ______ political system",
+      "type": "OBJ",
+      "options": [
+        "centralized",
+        "decentralized",
+        "totalitarian",
+        "authoritarian"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "centralized"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Kanem-Bornu</strong> Empire (9th–19th century) had a <em>centralized</em> political structure, with a powerful king (Mai) overseeing a bureaucratic system and provincial governors.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which of these is notable for acephalous and highly fragmented political structure?",
+      "type": "OBJ",
+      "options": [
+        "Igbo",
+        "Kanem-Bornu",
+        "Igala",
+        "Yoruba",
+        "Hausa/Fulani"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Igbo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Pre-colonial <strong>Igbo</strong> society was <em>acephalous</em> (stateless), relying on decentralized councils (e.g., age grades, titled societies) rather than a single ruler, fostering egalitarian governance.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "The estimated number of ethnic groups in Nigeria is",
+      "type": "OBJ",
+      "options": [
+        "150",
+        "250 or more",
+        "12,000",
+        "40",
+        "10"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "250 or more"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria is one of the world's most ethnically diverse nations, with <strong>250 or more</strong> distinct ethnic groups, including the Hausa, Yoruba, Igbo, Fulani, and numerous smaller communities.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "The practice of leaving land to fallow for a period in order to recover natural fertility is",
+      "type": "OBJ",
+      "options": [
+        "shifting cultivation",
+        "standardization",
+        "counter terracing",
+        "mixed cultivation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "shifting cultivation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Shifting cultivation</strong> involves rotating farmland to allow soil rejuvenation through natural processes, a traditional agricultural practice in many African societies.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "______ regulate human behavior and are standards for action in society",
+      "type": "OBJ",
+      "options": [
+        "values",
+        "cosmology",
+        "norm",
+        "rite",
+        "institution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "norm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Norms</strong> are societal rules or expectations that guide behavior, distinguishing acceptable from unacceptable actions within a community.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "______ are life cycle rituals symbolizing the achievement of a new status",
+      "type": "OBJ",
+      "options": [
+        "rite of passage",
+        "religious festival",
+        "cosmology",
+        "philosophy",
+        "transliteration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "rite of passage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Rites of passage</strong> (e.g., birth, puberty, marriage) mark transitions between life stages, reinforcing cultural identity and social cohesion.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "______ is a major influence that changed the traditional economy in Africa",
+      "type": "OBJ",
+      "options": [
+        "pastoralism",
+        "communication",
+        "communism",
+        "socialism",
+        "capitalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "capitalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The integration of Africa into global trade networks introduced <strong>capitalism</strong>, reshaping traditional economies through wage labor, monetization, and market-oriented production.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Karl Marx stated that changes in society are largely influenced by contradiction in the economic system",
+      "type": "OBJ",
+      "options": [
+        "true",
+        "partially",
+        "both"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Marx's historical materialism posits that societal evolution stems from <strong>economic contradictions</strong> (e.g., class struggles between bourgeoisie and proletariat).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which of these practice marriage by elopement?",
+      "type": "OBJ",
+      "options": [
+        "Andoni",
+        "Tiv",
+        "Benin",
+        "Iriebe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tiv"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Tiv</strong> people of Central Nigeria traditionally practiced <em>marriage by elopement</em>, where couples would flee to avoid parental objections, later negotiating bridewealth.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "______ is referred to as a designed for living held by members of the a society",
+      "type": "OBJ",
+      "options": [
+        "social order",
+        "culture",
+        "custom",
+        "society"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Culture</strong> encompasses the shared beliefs, practices, and norms that structure how a society lives, adapting to environmental and historical contexts.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The smallest unit of culture is ______",
+      "type": "OBJ",
+      "options": [
+        "trait",
+        "region",
+        "status",
+        "hamlet",
+        "rural"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "trait"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A cultural <strong>trait</strong> (e.g., a tool, gesture, or belief) is the most basic element of culture, combining to form complexes (e.g., farming practices).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Preferred marriage usually takes place among",
+      "type": "OBJ",
+      "options": [
+        "rival",
+        "friends",
+        "close cousins",
+        "neighbor",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "close cousins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Many African societies practice <strong>cousin marriage</strong> (especially cross-cousin) to strengthen kinship ties, consolidate wealth, or maintain lineage purity.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Process of having access and right use over land is known as",
+      "type": "OBJ",
+      "options": [
+        "land tenure",
+        "land utility",
+        "land maneuver",
+        "land agency"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "land tenure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Land tenure</strong> systems define how individuals or communities acquire, use, and transfer land rights, varying from communal to private ownership.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Which of the following can be classified as abiotic?",
+      "type": "OBJ",
+      "options": [
+        "fauna",
+        "flora",
+        "rock",
+        "plants"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "rock"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Abiotic</strong> components are non-living physical and chemical elements (e.g., rocks, water, air), distinct from biotic (living) factors like plants and animals.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Which of these facilitates the spread of HIV/AIDS in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "polyandry",
+        "monogamy",
+        "bigamy",
+        "polygamy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "polygamy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Polygamy</strong> (one spouse with multiple partners) can increase HIV transmission risk due to interconnected sexual networks, especially without protective measures.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Which country hosted the 2010 international conference on HIV/AIDS?",
+      "type": "OBJ",
+      "options": [
+        "Austria",
+        "Paris",
+        "Delhi",
+        "Geneva"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Austria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>2010 International AIDS Conference</strong> was held in Vienna, Austria, focusing on universal access to HIV prevention and treatment.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Physical environment consists of",
+      "type": "OBJ",
+      "options": [
+        "biotic and abiotic",
+        "earth and climate",
+        "earth and water",
+        "vegetation and water bodies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "biotic and abiotic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>physical environment</strong> includes <em>biotic</em> (living organisms) and <em>abiotic</em> (non-living elements like soil, climate) components that interact within ecosystems.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "The treatment given to the people living with HIV/AIDS to suppress viral activities is called",
+      "type": "OBJ",
+      "options": [
+        "antiviral",
+        "antiretroviral",
+        "protease",
+        "antiretroviral"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "antiretroviral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Antiretroviral therapy (ART)</strong> inhibits HIV replication, prolonging life and reducing transmission risk. It combines drugs targeting different viral stages.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "The body coordinating global response to HIV/AIDS is called",
+      "type": "OBJ",
+      "options": [
+        "UNAIDS",
+        "UNSACA",
+        "LACA",
+        "UNWAKA",
+        "world aids"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "UNAIDS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>UNAIDS</strong> (Joint United Nations Programme on HIV/AIDS) is the primary international organization leading global efforts to end the AIDS epidemic through advocacy, coordination, and policy support.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "When two sisters marry a man the marriage is called",
+      "type": "OBJ",
+      "options": [
+        "sororate polygyny",
+        "kinship polygyny",
+        "Afinal polygyny",
+        "sisterhood polygyny",
+        "Alliance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sororate polygyny"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Sororate polygyny</strong> occurs when a man marries multiple sisters, a practice found in some cultures to strengthen familial bonds and ensure continuity of alliances.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "World AIDS day is",
+      "type": "OBJ",
+      "options": [
+        "December 1",
+        "July 10",
+        "January 6",
+        "September 4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "December 1"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>World AIDS Day</strong>, observed annually on December 1, raises awareness about HIV/AIDS, commemorates those affected, and advocates for progress in prevention and treatment.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Female genital mutilation is said to be decreasing because of",
+      "type": "OBJ",
+      "options": [
+        "culture",
+        "reality",
+        "advocacy",
+        "justice",
+        "contribution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "advocacy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Global <strong>advocacy</strong> campaigns, education, and legal reforms have contributed to the decline of female genital mutilation (FGM) by highlighting its health risks and human rights violations.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "______ is when a person or any part of the body functions abnormally",
+      "type": "OBJ",
+      "options": [
+        "disease",
+        "infection",
+        "madness",
+        "disability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "disease"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>disease</strong> refers to a pathological condition that disrupts normal bodily functions, often characterized by specific symptoms and signs.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "Production in the traditional economy can best be described as being",
+      "type": "OBJ",
+      "options": [
+        "sub-standard",
+        "substantial",
+        "sublime",
+        "subsistence",
+        "substitutional"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "subsistence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Traditional economies primarily focus on <strong>subsistence</strong> production, where goods are made to meet immediate family or community needs rather than for trade or surplus.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "All but ______ is an aspect of culture",
+      "type": "OBJ",
+      "options": [
+        "norms",
+        "values",
+        "technology",
+        "language",
+        "cooperation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "cooperation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>While <strong>cooperation</strong> is a social behavior, it is not a distinct aspect of culture like norms, values, technology, or language, which are core components of cultural systems.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "______ infection attacks people whose immune systems have been badly compromised",
+      "type": "OBJ",
+      "options": [
+        "vigorous",
+        "opportunistic",
+        "syndrome",
+        "immunodeficiency",
+        "immune"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "opportunistic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Opportunistic infections</strong> (e.g., tuberculosis, candidiasis) exploit weakened immune systems, commonly affecting individuals with HIV/AIDS or other immunodeficiencies.</div>"
+    }
+  }
+]
